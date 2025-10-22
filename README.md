@@ -13,5 +13,12 @@ O que você encontra aqui:
     🔬 Labs & CTFs: Recursos para praticar em ambientes controlados.
 
     ⚖️ Código de Conduta: A importância da autorização, legalidade e ética.
+    
+Considerações Éticas
+
+    Use apenas em sistemas que você possui ou tem autorização para testar
+    Respeite os termos de serviço
+    Obtenha autorização por escrito antes de realizar testes
+    Use em ambientes controlados para aprendizado
 
 Contribua e ajude a construir uma comunidade mais segura!
