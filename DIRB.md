@@ -1,5 +1,3 @@
-# Resumo Detalhado do DIRB - Web Content Scanner
-
 ## O que é o DIRB?
 DIRB é um scanner de conteúdo web que busca por diretórios e arquivos ocultos em servidores web. É uma ferramenta essencial para testes de penetração e auditorias de segurança.
 
@@ -177,10 +175,3 @@ dirb http://alvo.com/ /usr/share/dirb/wordlists/common.txt -X .php -u admin:pass
 - **Dirsearch** - Python-based
 - **FFuF** - Extremamente versátil
 - **Wfuzz** - Com fuzzing capabilities
-
-## Considerações Éticas
-
-- Use apenas em sistemas que você possui ou tem autorização para testar
-- Respeite os termos de serviço
-- Obtenha autorização por escrito antes de realizar testes
-- Use em ambientes controlados para aprendizado
