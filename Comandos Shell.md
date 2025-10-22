@@ -1,4 +1,4 @@
-## **O que é Shell?
+## **O que é Shell?**
 Um shell é um programa de interface de linha de comando que permite interagir com o sistema operacional Linux.
 
 ## **Comandos de reconhecimento do sistema**
