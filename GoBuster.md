@@ -1,4 +1,4 @@
-## Visão Geral
+## O que é o GoBuster?
 GoBuster é uma ferramenta de brute-force escrita em Go, utilizada para descobrir diretórios, arquivos, subdomínios e S3 buckets em servidores web.
 
 ## Sintaxe Básica
