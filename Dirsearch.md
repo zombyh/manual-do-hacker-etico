@@ -1,5 +1,3 @@
-# Resumo Detalhado do Dirsearch
-
 ## O que é o Dirsearch?
 Dirsearch é uma ferramenta de brute force de diretórios e arquivos em servidores web, escrita em Python. É amplamente utilizada em testes de penetração e auditorias de segurança.
 
@@ -270,10 +268,3 @@ python3 dirsearch.py -u http://exemplo.com \
 3. **Performance**: Ajuste threads conforme a capacidade do servidor
 4. **Filtros**: Use filtros para reduzir falsos positivos
 5. **Wordlists**: Escolha wordlists apropriadas para o alvo
-
-## Considerações Éticas
-
-- Use apenas em sistemas que você possui ou tem autorização para testar
-- Respeite os termos de serviço
-- Obtenha autorização por escrito antes de realizar testes
-- Use em ambientes controlados para aprendizado
