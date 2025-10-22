@@ -1,7 +1,4 @@
-# Hydra - Guia de Comandos e Técnicas
-
-## Introdução ao Hydra
-
+## O que é o Hydra?
 O **Hydra** é uma ferramenta de brute-force de rede que suporta múltiplos protocolos e serviços. É amplamente utilizado em testes de penetração para verificar a força de senhas.
 
 ## Sintaxe Básica
@@ -170,11 +167,6 @@ hydra -L users.txt -P passwords.txt ssh://192.168.1.1 -w 10 -t 1
 - Use modo verboso para debug (`-v` ou `-V`)
 - Salve resultados com `-o`
 - Use formato JSON para processamento posterior
-
-### 5. Considerações Legais
-- Use apenas em sistemas que você possui
-- Obtenha autorização por escrito
-- Documente todo o processo
 
 ## Exemplo de Uso Completo
 
