@@ -1,5 +1,3 @@
-# GoBuster - Resumo Detalhado de Comandos
-
 ## Visão Geral
 GoBuster é uma ferramenta de brute-force escrita em Go, utilizada para descobrir diretórios, arquivos, subdomínios e S3 buckets em servidores web.
 
@@ -142,10 +140,3 @@ for sub in $(cat subdomains_results.txt); do
     gobuster dir -u "http://$sub" -w common.txt -x php,html -t 50 >> dir_results.txt
 done
 ```
-
-## Considerações Éticas
-
-- Use apenas em sistemas que você possui ou tem autorização para testar
-- Respeite os termos de serviço
-- Obtenha autorização por escrito antes de realizar testes
-- Use em ambientes controlados para aprendizado
