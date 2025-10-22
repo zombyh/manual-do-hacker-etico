@@ -1,6 +1,4 @@
-# John the Ripper - Guia de Comandos e Uso
-
-## Visão Geral
+## O que é o John the Ripper?
 John the Ripper é uma ferramenta de auditoria de senhas de código aberto, utilizada para testar a força de senhas através de diferentes métodos de cracking.
 
 ### Versões Principais
@@ -220,10 +218,3 @@ john --incremental hashes.txt
 # 5. Mostrar resultados
 john --show hashes.txt
 ```
-
-## Considerações Éticas
-
-- Use apenas em sistemas que você possui ou tem autorização para testar
-- Respeite os termos de serviço
-- Obtenha autorização por escrito antes de realizar testes
-- Use em ambientes controlados para aprendizado
