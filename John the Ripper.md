@@ -1,5 +1,5 @@
 ## O que é o John the Ripper?
-John the Ripper é uma ferramenta de auditoria de senhas de código aberto, utilizada para testar a força de senhas através de diferentes métodos de cracking.
+**John the Ripper** é uma ferramenta de auditoria de senhas de código aberto, utilizada para testar a força de senhas através de diferentes métodos de cracking.
 
 ### Versões Principais
 - **John the Ripper Community Edition**: Versão gratuita
