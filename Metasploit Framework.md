@@ -1,6 +1,4 @@
-# Metasploit Framework - Guia Detalhado de Comandos
-
-## Estrutura Básica do Metasploit
+## O que é o Metasploit Framework?
 
 ### Inicialização
 ```bash
@@ -251,10 +249,3 @@ sessions -l
 3. **Documente tudo** com notes no banco de dados
 4. **Teste em ambiente controlado** antes de usar em produção
 5. **Mantenha o sistema atualizado** com `msfupdate`
-
-## Considerações Éticas
-
-- Use apenas em sistemas que você possui ou tem autorização para testar
-- Respeite os termos de serviço
-- Obtenha autorização por escrito antes de realizar testes
-- Use em ambientes controlados para aprendizado
