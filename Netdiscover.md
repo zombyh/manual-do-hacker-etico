@@ -1,5 +1,5 @@
 ## O que é o Netdiscover?
-O `netdiscover` é uma ferramenta de descoberta de rede ativa/passiva para redes LAN, utilizada principalmente para descobrir hosts em uma rede local.
+O Netdiscover é uma ferramenta de descoberta de rede ativa/passiva para redes LAN, utilizada principalmente para descobrir hosts em uma rede local.
 
 ## Sintaxe Básica
 ```bash
