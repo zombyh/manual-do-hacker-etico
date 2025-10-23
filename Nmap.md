@@ -1,5 +1,3 @@
-# Resumo Detalhado do Nmap - Guia de Comandos
-
 ## O que é o Nmap?
 O Nmap (Network Mapper) é uma ferramenta de código aberto para exploração de rede e auditoria de segurança. É usado para descobrir hosts, serviços, sistemas operacionais e vulnerabilidades em redes.
 
@@ -260,11 +258,6 @@ nmap -sV --script=vuln 192.168.1.1
 ```
 
 ## Considerações Importantes
-
-### Ética e Legalidade
-- **Sempre obtenha permissão** antes de escanear redes
-- Use apenas em redes que você possui ou tem autorização para testar
-- O uso não autorizado pode ser ilegal
 
 ### Boas Práticas
 - Comece com scans menos intrusivos
