@@ -2,7 +2,6 @@
 Um **Shell** é um programa de interface de linha de comando que permite interagir com o sistema operacional Linux.
 
 ## **Comandos de reconhecimento do sistema**
-
 ```bash
 # Informações do usuário
 whoami                    # Usuário atual
