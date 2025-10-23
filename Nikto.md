@@ -1,5 +1,5 @@
 ## O que é o Nikto?
-Nikto é um scanner de segurança web de código aberto que realiza testes abrangentes em servidores web, identificando arquivos e programas perigosos, verifica versões desatualizadas de servidores e problemas específicos de versão.
+**Nikto** é um scanner de segurança web de código aberto que realiza testes abrangentes em servidores web, identificando arquivos e programas perigosos, verifica versões desatualizadas de servidores e problemas específicos de versão.
 
 ## Sintaxe Básica
 ```bash
