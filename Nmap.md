@@ -1,5 +1,5 @@
 ## O que é o Nmap?
-O Nmap (Network Mapper) é uma ferramenta de código aberto para exploração de rede e auditoria de segurança. É usado para descobrir hosts, serviços, sistemas operacionais e vulnerabilidades em redes.
+O **Nmap** (Network Mapper) é uma ferramenta de código aberto para exploração de rede e auditoria de segurança. É usado para descobrir hosts, serviços, sistemas operacionais e vulnerabilidades em redes.
 
 ## Sintaxe Básica
 ```bash
