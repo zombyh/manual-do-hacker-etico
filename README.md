@@ -18,7 +18,7 @@ Aqui você encontrará recursos organizados sobre ferramentas de segurança, sis
 ```
 manual-do-hacker-etico/
 │
-├── 🛠️-ferramentas/
+├── 🛠️-Ferramentas/
 │   ├── Comandos Shell.md
 │   ├── DIRB.md
 │   ├── Dirsearch.md
