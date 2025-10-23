@@ -1,5 +1,5 @@
 ## O que é o Netcat?
-Netcat (nc) é uma ferramenta de rede versátil conhecida como "canivete suíço" das redes. Permite ler e escrever dados através de conexões de rede usando TCP ou UDP.
+**Netcat** (nc) é uma ferramenta de rede versátil conhecida como "canivete suíço" das redes. Permite ler e escrever dados através de conexões de rede usando TCP ou UDP.
 
 ## Sintaxe Básica
 ```bash
