@@ -1,4 +1,5 @@
 ## O que é o Metasploit Framework?
+**Metasploit** é uma plataforma de teste de penetração que permite encontrar, explorar e validar vulnerabilidades em diversos sistemas.
 
 ### Inicialização
 ```bash
