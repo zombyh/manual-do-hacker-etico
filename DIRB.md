@@ -1,5 +1,5 @@
 ## O que é o DIRB?
-DIRB é um scanner de conteúdo web que busca por diretórios e arquivos ocultos em servidores web. É uma ferramenta essencial para testes de penetração e auditorias de segurança.
+**DIRB** é um scanner de conteúdo web que busca por diretórios e arquivos ocultos em servidores web. É uma ferramenta essencial para testes de penetração e auditorias de segurança.
 
 ## Sintaxe Básica
 
