@@ -1,5 +1,3 @@
-# SearchSploit - Guia de Comandos e Uso
-
 ## O que é o SearchSploit?
 
 SearchSploit é uma ferramenta de linha de comando para o Exploit Database (Exploit-DB) que permite pesquisar exploits localmente em seu sistema. Quando instalado via snap no Ubuntu, ele fornece uma maneira conveniente de acessar o banco de dados de exploits.
@@ -204,10 +202,3 @@ Principais subdiretórios:
 4. **Use com responsabilidade** - apenas em ambientes autorizados para teste.
 
 5. **Combine com outras ferramentas** para pentesting completo.
-
-## Considerações de Segurança
-
-- Use apenas em ambientes de teste autorizados
-- Sempre examine o código antes de executar
-- Mantenha a ferramenta atualizada
-- Use em conjunto com outras ferramentas de segurança
