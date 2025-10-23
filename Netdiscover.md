@@ -1,6 +1,4 @@
-# Netdiscover - Resumo Detalhado
-
-## Visão Geral
+## O que é o Netdiscover?
 O `netdiscover` é uma ferramenta de descoberta de rede ativa/passiva para redes LAN, utilizada principalmente para descobrir hosts em uma rede local.
 
 ## Sintaxe Básica
@@ -152,13 +150,6 @@ netdiscover -p -i eth0 | grep -i "duplicate"
 # Identificar dispositivos não autorizados
 netdiscover -P -i eth0 | grep -v "KNOWN_VENDOR"
 ```
-
-## Considerações Importantes
-
-### Ética e Legalidade
-- Use apenas em redes que você possui ou tem autorização para testar
-- Em redes corporativas, sempre obtenha autorização por escrito
-- O uso não autorizado pode violar leis de privacidade e segurança
 
 ### Performance
 - Modo ativo é mais rápido mas gera mais tráfego
