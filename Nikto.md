@@ -1,5 +1,3 @@
-# Nikto - Resumo Detalhado de Comandos
-
 ## O que é o Nikto?
 Nikto é um scanner de segurança web de código aberto que realiza testes abrangentes em servidores web, identificando arquivos e programas perigosos, verifica versões desatualizadas de servidores e problemas específicos de versão.
 
@@ -191,12 +189,7 @@ docker run --rm -v $(pwd):/tmp sullo/nikto -h http://exemplo.com -o /tmp/resulta
 
 ## Dicas Importantes
 
-### 1. Ética e Legalidade
-- Sempre obtenha permissão antes de escanear
-- Use apenas em sistemas que você possui ou tem autorização
-- Considere o impacto do escaneamento em sistemas de produção
-
-### 2. Otimização
+### 1. Otimização
 ```bash
 # Para evitar detecção
 nikto -h exemplo.com -evasion 1 -Tuning 6 -pause 2
@@ -205,20 +198,8 @@ nikto -h exemplo.com -evasion 1 -Tuning 6 -pause 2
 nikto -h exemplo.com -Tuning 0 -maxtime 30m
 ```
 
-### 3. Interpretação de Resultados
+### 2. Interpretação de Resultados
 - Verifique falsos positivos
 - Priorize vulnerabilidades críticas
 - Considere o contexto da aplicação
 - Documente todos os achados
-
-## Atualização e Manutenção
-```bash
-# Atualizar para versão mais recente
-nikto -update
-
-# Verificar versão
-nikto -version
-
-# Verificar configuração
-nikto -help
-```
