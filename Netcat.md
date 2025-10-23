@@ -1,5 +1,3 @@
-# Netcat - Resumo Detalhado dos Comandos
-
 ## O que é o Netcat?
 Netcat (nc) é uma ferramenta de rede versátil conhecida como "canivete suíço" das redes. Permite ler e escrever dados através de conexões de rede usando TCP ou UDP.
 
@@ -248,10 +246,3 @@ nc -h
 which nc
 ls -la /etc/alternatives/nc
 ```
-
-## Considerações Éticas
-
-- Use apenas em sistemas que você possui ou tem autorização para testar
-- Respeite os termos de serviço
-- Obtenha autorização por escrito antes de realizar testes
-- Use em ambientes controlados para aprendizado
