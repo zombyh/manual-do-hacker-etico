@@ -1,5 +1,3 @@
-# Meterpreter - Guia de Comandos Detalhados
-
 ## O que é Meterpreter?
 Meterpreter (Meta-Interpreter) é um payload avançado e dinâmico do Metasploit que fornece um shell interativo com amplas capacidades de pós-exploração.
 
@@ -159,10 +157,3 @@ keyscan_stop
 3. **Limpe logs** após atividades
 4. **Use HTTPS** para comunicações
 5. **Monitore recursos** do sistema alvo
-
-## Considerações Éticas
-
-- Use apenas em sistemas que você possui ou tem autorização para testar
-- Respeite os termos de serviço
-- Obtenha autorização por escrito antes de realizar testes
-- Use em ambientes controlados para aprendizado
