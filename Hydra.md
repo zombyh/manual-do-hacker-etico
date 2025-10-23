@@ -2,7 +2,6 @@
 O **Hydra** é uma ferramenta de brute-force de rede que suporta múltiplos protocolos e serviços. É amplamente utilizado em testes de penetração para verificar a força de senhas.
 
 ## Sintaxe Básica
-
 ```bash
 hydra -l <usuário> -p <senha> <protocolo://servidor:porta> <opções>
 hydra -L <lista_usuários> -P <lista_senhas> <alvo> <opções>
