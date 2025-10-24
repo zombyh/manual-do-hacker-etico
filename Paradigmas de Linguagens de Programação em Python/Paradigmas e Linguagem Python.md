@@ -84,7 +84,7 @@
 
 ---
 
-### ✅ Dicas para a Prova:
+### ✅ Dicas:
 - Python é **multiparadigma**, mas não puramente funcional ou lógico.
 - Domine os **critérios de avaliação** (legibilidade, confiabilidade, etc.).
 - Entenda a **classificação por gerações** e domínios.
@@ -92,20 +92,3 @@
 - Python é **portável** devido ao bytecode e PVM.
 
 ---
-
-### 📌 Palavras-Chave para Revisão:
-- Abstração
-- Legibilidade
-- Multiparadigma
-- Bytecode
-- PVM (Python Virtual Machine)
-- Orientação a Objetos
-- Funcional
-- Interpretação vs. Compilação
-- Portabilidade
-
----
-
-Esse resumo cobre os conceitos essenciais do material. Recomendo revisar também exemplos de código em Python que ilustrem os paradigmas e características mencionadas.
-
-Boa prova! 🚀
