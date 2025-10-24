@@ -1,5 +1,5 @@
 
-# 📘 Resumo para Estudo: Gestão de Continuidade do Negócio
+# 📘 Resumo: Gestão de Continuidade do Negócio
 
 ## 1. Conceitos Fundamentais
 
@@ -121,28 +121,3 @@
 - Documentação do plano de recuperação
 
 ---
-
-## 7. Verificação de Aprendizado (Resumo)
-
-### ❓ Questões-Chave
-1. O PCN é um processo **preventivo**.
-2. Deve ser **revisado periodicamente**.
-3. O **PDCA** é usado para melhoria contínua do PCN.
-4. O **PRD** define o tempo máximo para retomada das atividades.
-5. A **PGCN** é a base para o desenvolvimento do PCN.
-6. O **GCSTI** está alinhado à ITIL e foca na continuidade dos serviços de TI.
-
----
-
-## 📌 Dicas para a Prova (Procergs)
-
-- Foque em: **conceito de PCN**, **planos que o compõem**, **metodologia PDCA**, **PGCN**, **ITIL/GCSTI**.
-- Entenda a diferença entre **Plano de Contingência** e **Plano de Recuperação**.
-- Saiba relacionar **GCSTI** com o **PCN** geral.
-- Revise a **NBR 15999-1** e a **ITIL**.
-
----
-
-Esse resumo cobre todos os tópicos principais do documento e deve servir como uma base sólida para seus estudos. Boa sorte! 🚀
-
-Se precisar de mais alguma coisa (questões comentadas, mapas mentais, etc.), é só avisar!
