@@ -1,5 +1,5 @@
 
-## 📘 Resumo Detalhado: Gestão de Risco em Segurança da Informação
+## 📘 Resumo: Gestão de Risco em Segurança da Informação
 
 ### 1. **Conceitos Fundamentais**
 - **Segurança da Informação**: Preservação dos pilares **CID**:
@@ -88,24 +88,9 @@
 
 ---
 
-### 7. **Questões de Verificação de Aprendizagem (Resumo)**
-- **Q1**: Pessoa não autorizada no datacenter = **Ameaça**.
-- **Q2**: Partes interessadas = **Indivíduos ou grupos com interesse no sucesso da organização**.
-- **Q3**: Tabela de ameaças e consequências = produto da etapa de **Análise de Riscos**.
-- **Q4**: Afirmativa correta sobre risco e impacto = **Somente I** (impacto é mudança indesejável nos objetivos).
-
----
-
-### 8. **Conclusão**
+### 7. **Conclusão**
 - A GR é contínua e essencial para minimizar impactos de incidentes.
 - Deve estar integrada à cultura organizacional e apoiada por ferramentas de GRC.
 - Normas como ISO/IEC 27005 e 27001 fornecem o framework para implementação.
-
----
-
-### 🎧 Material Complementar (Indicações do Documento)
-- Cartilha da ANS: *Política de gestão de riscos* (2009).
-- Palestras TED: Chris Davenport e Will Gadd sobre gerenciamento de riscos.
-- Leitura: Stallings, *Criptografia e Segurança de Redes*.
 
 ---
