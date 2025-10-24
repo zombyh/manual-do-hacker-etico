@@ -102,7 +102,7 @@
 
 ---
 
-## Referências Sugeridas (do documento)
+## Referências Sugeridas
 - CARVALHO, A.; LORENA, A. *Introdução à Computação*
 - DALE, N.; LEWIS, J. *Ciência da Computação*
 - FLANAGEN, D. *Javascript: o guia definitivo*
