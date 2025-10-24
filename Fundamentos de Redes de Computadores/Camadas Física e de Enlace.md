@@ -1,5 +1,5 @@
 
-# 📘 Resumo para Prova: Camadas Física e de Enlace
+# 📘 Resumo: Camadas Física e de Enlace
 
 ---
 
@@ -88,7 +88,7 @@ As camadas **física** e **de enlace** são fundamentais para a infraestrutura d
 
 ---
 
-## ✅ 5. Pontos Importantes para a Prova
+## ✅ 5. Pontos Importantes
 
 - **Ruído térmico** está sempre presente.
 - **Fibra óptica** tem maior banda e menor interferência.
@@ -100,10 +100,3 @@ As camadas **física** e **de enlace** são fundamentais para a infraestrutura d
 - **Banda passante** limita a taxa de transmissão.
 
 ---
-
-## 🧠 Dica Final
-
-Revise os **protocolos de acesso ao meio** (ALOHA, CSMA, Token) e as **técnicas de enquadramento**. Entenda bem a diferença entre **meios guiados e não guiados** e as **vantagens/desvantagens** de cada um.
-
----
-
