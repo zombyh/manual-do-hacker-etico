@@ -1,5 +1,5 @@
 
-# 📘 Resumo para Estudo: Boas Práticas em Segurança da Informação
+# 📘 Resumo: Boas Práticas em Segurança da Informação
 
 ## 1. Conceitos Fundamentais
 
@@ -136,25 +136,5 @@
 - Infraestrutura de Chaves Públicas Brasileira.
 - Base legal: Medida Provisória 2.200-2/2001.
 - Usado em: nota fiscal eletrônica, processos judiciais, compras governamentais, etc.
-
----
-
-## 9. Verificação de Aprendizado (Resumo)
-
-### ❓ Questões-Chave
-1. **Senhas**: devem ser complexas, únicas e nunca compartilhadas.
-2. **Treinamento**: deve ser contínuo, envolvendo toda a organização.
-3. **Controle de Acesso**: use RBAC ou MAC para maior segurança.
-4. **Backup**: teste restaurações e tenha uma política clara.
-5. **Criptografia**: use conforme a necessidade (hash para integridade, simétrica para confidencialidade).
-
----
-
-## 📌 Dicas para a Prova (Procergs)
-
-- Foque em: **políticas de senha**, **controle de acesso**, **tipos de malware**, **criptografia**, **certificado digital**.
-- Revise a **ISO/IEC 27002** e os princípios de proteção.
-- Entenda a diferença entre **backup incremental e diferencial**.
-- Saiba identificar exemplos de **phishing** e **engenharia social**.
 
 ---
