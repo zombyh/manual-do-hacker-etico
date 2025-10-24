@@ -13,36 +13,6 @@ Aqui você encontrará recursos organizados sobre ferramentas de segurança, sis
 - 🔒 Educar sobre práticas éticas de hacking e testes de invasão
 - 🛡️ Contribuir para uma internet mais segura através do conhecimento
 
-## 📂 Estrutura do Repositório
-
-```
-manual-do-hacker-etico/
-│
-├── 🛠️-Ferramentas/
-│   ├── Comandos Shell.md
-│   ├── DIRB.md
-│   ├── Dirsearch.md
-│   ├── GoBuster.md
-│   ├── Hydra.md
-│   ├── John the Ripper.md
-│   ├── Metasploit Framework.md
-│   ├── Meterpreter.md
-│   ├── Netcat.md
-│   ├── Netdiscover.md
-│   ├── Nikto.md
-│   ├── Nmap.md
-│   └── SearchSploit.md
-│
-├── 💻-sistemas-operacionais/
-│   ├── Em construção.
-│
-├── 🌐-redes/
-│   ├── Em construção.
-│
-└── 🔬-laboratorios/
-    ├── Em construção.
-```
-
 ## 🚀 Começando
 
 ### Pré-requisitos
