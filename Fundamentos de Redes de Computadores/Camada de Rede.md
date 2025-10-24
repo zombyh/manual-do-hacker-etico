@@ -108,7 +108,7 @@ A camada de rede é responsável pelo **roteamento** de pacotes da origem ao des
 
 ---
 
-## ✅ 6. Pontos Importantes para a Prova
+## ✅ 6. Pontos Importantes
 
 - **CIDR** permite alocação eficiente de IPs.
 - **NAT** resolve escassez de IPv4.
@@ -118,15 +118,5 @@ A camada de rede é responsável pelo **roteamento** de pacotes da origem ao des
 - **Dijkstra** é usado em OSPF (estado de enlace).
 - **RIP** é um protocolo de vetor de distância.
 - **BGP** é usado para roteamento entre sistemas autônomos.
-
----
-
-## 🧠 Dica Final
-
-Entenda bem:
-- Diferença entre **roteamento** e **repasse**.
-- Funcionamento do **NAT** e **DHCP**.
-- Como **Dijkstra** e **Vetor de Distância** funcionam.
-- Mensagens **ICMP** e seus usos.
 
 ---
