@@ -38,16 +38,6 @@
 
 ---
 
-### 🛠️ Prática:
-- Exercícios incluíam:
-  - Validação de CPF
-  - Torres de Hanói
-  - Interface gráfica com `tkinter`
-  - Tratamento de exceções em divisão
-  - Captura de eventos de mouse e teclado
-
----
-
 ### 📚 Referências:
 - Perkovic, L. *Introdução à computação usando Python*
 - Sebesta, R. *Conceitos de linguagens de programação*
