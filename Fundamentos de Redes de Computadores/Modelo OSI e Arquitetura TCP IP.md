@@ -1,5 +1,5 @@
 
-## 📘 Resumo para Estudo – Modelo OSI e Arquitetura TCP/IP
+## 📘 Resumo: Modelo OSI e Arquitetura TCP/IP
 
 ---
 
@@ -87,14 +87,7 @@ Cada camada adiciona um cabeçalho à unidade de dados recebida da camada superi
 
 ---
 
-### 5. **Dica Final**
-- Entenda bem as **funções de cada camada** e os **protocolos associados**.
-- Pratique a associação entre **modelo OSI** e **TCP/IP**.
-- Foque em **TCP vs UDP**, **IP versão 4 vs 6**, e os **protocolos de aplicação** comuns (HTTP, DNS, SMTP, etc.).
-
----
-
-### 📚 Materiais de Apoio (Recomendados no Documento)
+### 📚 Materiais de Apoio
 - ITU (International Telecommunication Union)
 - IEEE 802 (Ethernet, Wi-Fi)
 - Livro: "Redes de Computadores" – Behrouz Forouzan
