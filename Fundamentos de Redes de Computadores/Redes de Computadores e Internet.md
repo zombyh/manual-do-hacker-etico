@@ -1,5 +1,5 @@
 
-## 📘 Resumo para Concurso – Redes de Computadores e Internet
+## 📘 Resumo: Redes de Computadores e Internet
 
 ---
 
@@ -106,7 +106,7 @@
 
 ---
 
-### 8. **Conceitos-Chave para a Prova**
+### 8. **Conceitos-Chave**
 - **Internet**: rede de redes baseada em TCP/IP.
 - **ISP**: provedor de acesso à internet.
 - **Protocolos**: TCP (confiável), UDP (não confiável), IP (endereçamento).
@@ -116,7 +116,7 @@
 
 ---
 
-### 9. **Referências Sugeridas (do documento)**
+### 9. **Referências Sugeridas**
 - FOROUZAN, B. A. *Comunicação de dados e redes de computadores*
 - KUROSE, J. F.; ROSS, K. W. *Redes de computadores e a internet*
 - TANENBAUM, A. S.; WETHERALL, D. *Redes de computadores*
