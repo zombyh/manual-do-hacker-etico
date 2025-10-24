@@ -77,7 +77,7 @@ print(f"Média: {media:.2f}")
 
 ---
 
-### ✅ Dicas para a Prova:
+### ✅ Dicas:
 - Pratique a sintaxe de blocos por indentação.
 - Entenda a diferença entre `=`, `==` e `!=`.
 - Saiba converter tipos explicitamente.
@@ -85,18 +85,3 @@ print(f"Média: {media:.2f}")
 - Lembre-se: `input()` sempre retorna string.
 
 ---
-
-### 📌 Palavras-Chave para Revisão:
-- Indentação
-- PEP8
-- Escopo (global/local)
-- Tipos: int, float, bool, complex
-- Operadores: `//`, `%`, `**`, `and`, `or`, `not`
-- `input()`, `print()`, `eval()`
-- Formatação de strings
-
----
-
-Esse resumo cobre os conceitos fundamentais de Python estruturado conforme o material. Recomendo que você pratique escrevendo pequenos programas para fixar a sintaxe e os conceitos.
-
-Boa prova! 🚀
