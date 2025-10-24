@@ -51,9 +51,8 @@
 
 #### **Método Geral**
 1. Converter da base X para base 10:
-$$
-N = d_n \times b^n + d_{n-1} \times b^{n-1} + \ldots + d_0 \times b^0
-$$
+- $N = d_n \times b^n + d_{n-1} \times b^{n-1} + \ldots + d_0 \times b^0$
+
 2. Converter da base 10 para base Y:
    - Divisões sucessivas pela base Y.
 
