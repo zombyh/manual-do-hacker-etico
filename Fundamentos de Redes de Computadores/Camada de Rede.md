@@ -1,5 +1,5 @@
 
-# 📘 Resumo para Prova: Camada de Rede
+# 📘 Camada de Rede
 
 ---
 
