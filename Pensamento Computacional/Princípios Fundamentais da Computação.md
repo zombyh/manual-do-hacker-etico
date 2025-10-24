@@ -94,14 +94,6 @@ print(f"{nome1} e {nome2} são irmãs")
 
 ---
 
-## 6. Conclusão e Referências Culturais
-
-### O que foi aprendido:
-- Lógica fundamental dos computadores.
-- Diferença entre algoritmo e código.
-- Introdução à programação com Python.
-- Importância da evolução tecnológica e do acesso.
-
 ### Sugestões de Leitura e Filmes:
 - Livros: *Admirável Mundo Novo*, *1984*, *Eu, Robô*.
 - Filmes: *Blade Runner*, *Ex-Machina*, *Wall-E*, *Minority Report*.
