@@ -1,5 +1,5 @@
 
-# 📘 Resumo para Estudo: Ameaças e Vulnerabilidades em Segurança da Informação
+# 📘 Resumo: Ameaças e Vulnerabilidades em Segurança da Informação
 
 ## 1. Conceitos Fundamentais
 
@@ -121,14 +121,5 @@
 
 - **ISO/IEC 27002**: Código de prática para controles de segurança.
 - **NIST SHS (Secure Hash Standards)**: Padrões de funções hash.
-
----
-
-## 📌 Dicas para a Prova (Procergs)
-
-- Foque em: **classificações de ameaças**, **tipos de malware**, **técnicas de engenharia social** e **controles de mitigação**.
-- Entenda bem os conceitos de **confidencialidade, integridade e disponibilidade** (Tríade CIA).
-- Revise casos reais como **WannaCry**, ** phishing**, **DDoS**.
-- Pratique com questões de concursos anteriores sobre segurança da informação.
 
 ---
