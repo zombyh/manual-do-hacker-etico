@@ -1,5 +1,5 @@
 
-# 📘 Resumo para Prova: Camadas de Aplicação e Transporte
+# 📘 Resumo: Camadas de Aplicação e Transporte
 
 ---
 
@@ -113,7 +113,7 @@ Um protocolo de aplicação define:
 
 ---
 
-## ✅ 7. Pontos Importantes para a Prova
+## ✅ 7. Pontos Importantes
 
 - **HTTP**: stateless, métodos GET/POST, códigos de status.
 - **SMTP**: comando DATA, envio de e-mails.
@@ -124,14 +124,3 @@ Um protocolo de aplicação define:
 - **Janela deslizante**: controle de fluxo no TCP.
 
 ---
-
-## 🧠 Dica Final
-
-- Entenda a diferença entre **HTTP** e **HTTPS** (segurança).
-- Saiba como o **DNS** resolve nomes e para que servem os registros **MX** e **A**.
-- Diferencie **POP3** (baixar e-mails) de **IMAP** (sincronizar).
-- Lembre-se: **TCP** é confiável, **UDP** é rápido.
-- Conheça as **portas bem conhecidas** e seus serviços.
-
----
-
