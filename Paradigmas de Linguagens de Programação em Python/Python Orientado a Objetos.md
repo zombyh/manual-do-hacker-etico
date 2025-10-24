@@ -1,5 +1,5 @@
 
-## 📘 Resumo do Conteúdo: **Python Orientado a Objetos**
+## 📘 Resumo: **Python Orientado a Objetos**
 
 ### **Módulo 1: Conceitos Fundamentais de POO**
 - **Objetos**: Instâncias de classes que possuem **atributos** (estado) e **métodos** (comportamento).
@@ -48,23 +48,9 @@
 
 ---
 
-### 🧪 **Exercícios Práticos Incluídos**
-- Criação de classes como `Televisão`, `ContaBancaria`, `Animal`, `Veículo`, etc.
-- Implementação de herança, polimorfismo, encapsulamento.
-- Tratamento de exceções em operações matemáticas.
-
----
-
 ### 📚 **Recomendações de Leitura**
 - *Fluent Python* – Luciano Ramalho
 - *Clean Code in Python* – Mariano Anaya
 - *Learning Python Design Patterns* – Giridhar
-
----
-
-### ✅ **Objetivos do Conteúdo**
-- Compreender e aplicar os pilares da POO em Python.
-- Modelar sistemas usando classes, objetos e relações.
-- Escrever código modular, reutilizável e de fácil manutenção.
 
 ---
