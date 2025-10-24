@@ -1,8 +1,5 @@
 
-## 🧠 Resumo Detalhado: Pensamento Computacional e Aplicações
-
-### 🎯 **Objetivo do Material**
-Discutir o pensamento computacional com base em seus quatro pilares (abstração, decomposição, reconhecimento de padrões e algoritmos) e destacar sua relevância para profissionais de todas as áreas no século XXI.
+## 🧠 Resumo: Pensamento Computacional e Aplicações
 
 ---
 
