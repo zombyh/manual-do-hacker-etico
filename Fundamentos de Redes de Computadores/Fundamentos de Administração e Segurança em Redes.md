@@ -1,5 +1,5 @@
 
-## 📘 Resumo para Estudo – Fundamentos de Administração e Segurança em Redes
+## 📘 Resumo: Fundamentos de Administração e Segurança em Redes
 
 ---
 
@@ -99,7 +99,7 @@ Modelo ISO para gerenciamento de redes:
 
 ---
 
-### 📚 Materiais de Apoio (Recomendados no Documento)
+### 📚 Materiais de Apoio
 - Cartilha de Segurança para Internet (CERT.br)
 - White Paper da Cisco sobre gerenciamento de redes
 - ITIL – Boas práticas para gerenciamento de serviços de TI
