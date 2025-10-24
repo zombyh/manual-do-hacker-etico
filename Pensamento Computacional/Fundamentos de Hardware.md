@@ -100,7 +100,7 @@
 
 ---
 
-## 9. Considerações Finaais
+## 9. Considerações Finais
 - Hardware e software são complementares.
 - A evolução do hardware segue a **Lei de Moore**.
 - Componentes principais: CPU, RAM, armazenamento.
