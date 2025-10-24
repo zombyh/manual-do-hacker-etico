@@ -1,5 +1,5 @@
 
-## 📘 Resumo Detalhado: Noções de Programação com Manipulação de Imagens
+## 📘 Resumo: Noções de Programação com Manipulação de Imagens
 
 ### 🎯 **Objetivo do Material**
 Introduzir conceitos básicos de programação por meio da manipulação de imagens digitais, desenvolvendo habilidades de **pensamento computacional**: abstração, automação, reconhecimento de padrões, análise e decomposição.
@@ -122,19 +122,5 @@ if (pixel.getRed() > media && pixel.getGreen() > media) {
 3. **Decomposição**: Quebrar problemas em partes menores.
 4. **Reconhecimento de Padrões**: Identificar comportamentos comuns (ex: tons de amarelo).
 5. **Análise e Avaliação**: Testar, ajustar e melhorar o código.
-
----
-
-## 🧪 **Práticas Comuns no Material**
-- Ajuste de brilho, saturação e tons.
-- Conversão para escala de cinza.
-- Filtragem de cores específicas.
-- Aplicação de zoom e visualização.
-
----
-
-## 📥 **Material de Apoio**
-- **Download do PDF** disponível no final do documento.
-- **Referências bibliográficas** incluídas (ex: JavaScript: O Guia Definitivo, Introdução à Ciência da Computação).
 
 ---
