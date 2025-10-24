@@ -1,5 +1,5 @@
 
-## 📘 Resumo Detalhado: Princípios da Segurança e Ciclo de Vida da Informação
+## 📘 Resumo: Princípios da Segurança e Ciclo de Vida da Informação
 
 ### 1. **Conceitos Básicos: Dado vs. Informação**
 - **Dado**: Valor bruto, sem contexto (ex.: números, textos isolados).
@@ -80,31 +80,9 @@ A informação passa por quatro etapas, todas requiring proteção:
 
 ---
 
-### 8. **Questões de Verificação de Aprendizagem (Resumo)**
-- **Q1**: Funções de hash → **Integridade**.
-- **Q2**: Servidores fora do ar → **Indisponibilidade**.
-- **Q3**: Senha embaixo do teclado → quebra da **Confidencialidade**.
-- **Q4**: Mnemônico "CID" = Confidencialidade, Integridade, Disponibilidade.
-- **Q5**: Firewall → **Segurança lógica**.
-- **Q6**: Reconhecimento facial → **Segurança física** (controle de acesso físico).
-
----
-
-### 9. **Conclusão**
+### 8. **Conclusão**
 - A segurança da informação deve ser aplicada em **todas as etapas** do ciclo de vida da informação.
 - **Segurança física** e **lógica** são complementares e devem ser implementadas em camadas.
 - Controles como criptografia, firewalls, biometria e políticas de acesso são essenciais para proteger os pilares da segurança (CID).
 
 ---
-
-### 🎧 Material Complementar (Indicações do Documento)
-- Vídeos no YouTube:
-  - IBM Cloud e Amazon Web Services (cloud computing).
-  - Supercomputador Santos Dumont (medidas de segurança).
-- Norma ABNT ISO/IEC 27002:2013 (Boas práticas para gestão de segurança da informação).
-
----
-
-Espero que este resumo seja útil para seus estudos! Boa sorte na prova! 🚀
-
-Se precisar de flashcards, questões ou um mapa mental, é só pedir!
