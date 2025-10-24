@@ -1,5 +1,5 @@
 
-## 📘 Resumo Detalhado: Normas de Segurança da Informação
+## 📘 Resumo: Normas de Segurança da Informação
 
 ### 1. **Introdução às Normas de Segurança da Informação**
 - **Sistema de Gestão de Segurança da Informação (SGSI)**: Conjunto de políticas, procedimentos e controles para proteger os ativos de informação.
@@ -90,24 +90,9 @@
 
 ---
 
-### 6. **Verificação de Aprendizagem (Resumo)**
-- **Q1**: Palavra-chave da ISO/IEC 27001 = **"DEVE"**.
-- **Q2**: Controles da ISO/IEC 27002 devem ser aplicados conforme **os riscos específicos da organização**.
-- **Q3**: Auditor não deve auditar o próprio trabalho (boas práticas, mesmo que não explicitado na versão 2013).
-- **Q4**: Caso Deutsche Bank se enquadra em **continuidade de negócios (17.1)**.
-
----
-
-### 7. **Conclusão**
+### 6. **Conclusão**
 - As normas ISO/IEC 27001 e 27002 são essenciais para a implementação de um SGSI robusto.
 - Devem ser adaptadas ao contexto e aos riscos específicos de cada organização.
 - A adoção dessas normas traz benefícios estratégicos, operacionais e competitivos.
-
----
-
-### 🎧 Material Complementar (Indicações do Documento)
-- Estudos de caso Intel sobre ISO 27001.
-- Página oficial da ISO sobre ISO/IEC 27001.
-- Catálogo da ABNT para aquisição das normas.
 
 ---
