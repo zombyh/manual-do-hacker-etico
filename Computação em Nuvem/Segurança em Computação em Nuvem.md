@@ -1,5 +1,5 @@
 
-## 📘 Resumo para Prova: Segurança em Computação em Nuvem
+## 📘 Resumo: Segurança em Computação em Nuvem
 
 ---
 
@@ -125,14 +125,12 @@
 
 ---
 
-### 7. **Dicas para a Prova**
+### 7. **Dicas**
 - Entenda bem o **modelo de responsabilidade compartilhada** por tipo de serviço.
 - Saiba diferenciar **SaaS, PaaS, IaaS** e seus níveis de responsabilidade.
 - Conheça os **serviços de armazenamento** (bloco, arquivo, objeto).
 - Domine os **conceitos de segurança** (CIA: Confidencialidade, Integridade, Disponibilidade).
 - Familiarize-se com os **domínios da CSA** e seus focos.
-- Esteja preparado para questões sobre **vulnerabilidades comuns** e mitigações.
-
 ---
 
 ### 🧠 Exemplos de Aplicação:
