@@ -1,5 +1,5 @@
 
-# Resumo: Comunicando Resultados em Auditoria de Sistemas
+## 📘 Resumo Detalhado: Comunicando Resultados em Auditoria de Sistemas
 
 ## 1. Introdução
 - A comunicação de resultados ocorre em **dois momentos**:
@@ -86,10 +86,5 @@
 - Deve indicar **concordância/discordância** com cada falha.
 - Em caso de discordância: **justificar**.
 - Em caso de concordância: informar **data de ação corretiva**.
-
-## 10. Conclusão
-- Aprendeu a **reportar falhas** e **elaborar relatórios**.
-- Entendeu a importância do **follow-up**.
-- Conheceu técnicas para **escrever com clareza** e **objetividade**.
 
 ---
