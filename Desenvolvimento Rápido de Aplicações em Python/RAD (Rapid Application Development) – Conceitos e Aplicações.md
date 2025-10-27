@@ -1,5 +1,4 @@
-
-# 🚀 Resumo: RAD (Rapid Application Development) – Conceitos e Aplicações
+## 🚀 Resumo: RAD (Rapid Application Development) – Conceitos e Aplicações
 
 ## 📌 O que é RAD?
 - **RAD** = Desenvolvimento Rápido de Aplicações
