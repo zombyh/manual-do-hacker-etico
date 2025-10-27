@@ -89,17 +89,3 @@
 - **Documentação**: Tudo deve ser registrado em papéis de trabalho.
 
 ---
-
-### ✅ Conclusão da Aula
-Ao final desta aula, você será capaz de:
-- Auditar redes, hardware e controle de acesso.
-- Aplicar programas de auditoria específicos.
-- Criar senhas seguras e scripts de verificação de identidade.
-
----
-
-### 🧠 Na Próxima Aula:
-- Auditoria de aquisição, desenvolvimento, documentação e manutenção de sistemas.
-- Auditoria de operação, suporte técnico e sistemas aplicativos.
-
----
