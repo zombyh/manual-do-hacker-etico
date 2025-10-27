@@ -1,5 +1,4 @@
-
-# 🧪 Resumo: Mais Técnicas de Auditoria de Sistemas
+## 🧪 Resumo: Mais Técnicas de Auditoria de Sistemas
 
 ## 🎯 Objetivos da Aula
 - Conhecer novas técnicas de teste de auditoria.
@@ -114,10 +113,5 @@
 ## 📚 Materiais Complementares
 - [Mais sobre Log/Accounting](http://estaciodocente.webaula.com.br/cursos/gra097/docs/05AS_doc01.pdf)
 - Exemplos de matriz de Ponto de Controle com técnicas sugeridas (disponíveis na biblioteca virtual do curso).
-
----
-
-## 🧠 Próxima Aula
-- Políticas organizacionais e estrutura administrativa em tecnologia da informação.
 
 ---
