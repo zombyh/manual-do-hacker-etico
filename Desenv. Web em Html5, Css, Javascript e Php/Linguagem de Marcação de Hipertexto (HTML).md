@@ -1,5 +1,4 @@
-
-# 📘 Resumo Detalhado: Linguagem de Marcação de Hipertexto (HTML)
+## 📘 Resumo Detalhado: Linguagem de Marcação de Hipertexto (HTML)
 
 ## 1. Introdução ao HTML
 
