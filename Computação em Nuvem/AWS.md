@@ -1,5 +1,5 @@
 
-## 📘 Resumo para Prova de Concurso – AWS
+## 📘 Resumo: AWS
 
 ---
 
