@@ -130,7 +130,7 @@
 
 ---
 
-### 11. **Dicas para a Prova**
+### 11. **Dicas**
 - Entenda bem os **modelos de serviço (IaaS, PaaS, SaaS)** e suas responsabilidades.
 - Saiba diferenciar **nuvem pública, privada, híbrida e comunitária**.
 - Conheça as **vantagens e desvantagens** da nuvem.
