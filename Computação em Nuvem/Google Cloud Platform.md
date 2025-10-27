@@ -1,5 +1,5 @@
 
-## 📘 Resumo para Prova de Concurso – Google Cloud Platform (GCP) – Procergs
+## 📘 Resumo: – Google Cloud Platform (GCP)
 
 ---
 
@@ -95,34 +95,6 @@
 - **Banco de Dados**: Cloud SQL (gerenciado, escalável).
 - **Checkout Assíncrono**: Pub/Sub para mensageria entre sistemas (estoque, NF, entrega).
 - **Vantagem**: Tolerância a falhas, escalabilidade, experiência do usuário.
-
----
-
-### **6. Verificação de Aprendizado (Respostas)**
-
-1. **Como funcionam os recursos na nuvem?**  
-   → **Alugados e pagos pelo uso (B)**
-
-2. **Quais modelos de serviço o GCP oferece?**  
-   → **IaaS e PaaS (C)**
-
-3. **O que é VPC?**  
-   → **Virtual Private Cloud (D)**
-
-4. **O que é uma máquina virtual?**  
-   → **Virtual Machine (A)**
-
-5. **Quem gerencia a segurança do hardware em ambiente on-premises?**  
-   → **Cliente/usuário (C)**
-
-6. **O que é IAM?**  
-   → **Identity and Access Management (E)**
-
-7. **Como implantar infraestrutura no GCP?**  
-   → **Criar VPC → sub-redes → VMs (C)**
-
-8. **O que é mensageria assíncrona?**  
-   → **Pub/Sub (D)**
 
 ---
 
