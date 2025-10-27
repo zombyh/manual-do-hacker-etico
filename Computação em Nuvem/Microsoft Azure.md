@@ -1,5 +1,5 @@
 
-## 📘 Resumo para Prova de Concurso – Microsoft Azure (Procergs)
+## 📘 Resumo: Microsoft Azure
 
 ---
 
@@ -114,34 +114,6 @@
 #### **Planos de Serviço (Service Plans):**
 - Define poder computacional e recursos para aplicativos.
 - Exemplos: B1, S1, P1v3 (com limites de apps por plano).
-
----
-
-### **5. Verificação de Aprendizado (Respostas)**
-
-1. **Qual modelo de nuvem combina público e privado?**  
-   → **Nuvem Híbrida (A)**
-
-2. **Onde uma solução de controle de finanças se enquadra?**  
-   → **SaaS (B)**
-
-3. **Quantos grupos de recursos um recurso pode pertencer?**  
-   → **Apenas um (A)**
-
-4. **Qual redundância oferece 16 noves de durabilidade?**  
-   → **GRS/GZRS (C)**
-
-5. **O que ajuda a organizar recursos por metadados?**  
-   → **Marcas (Tags) (A)**
-
-6. **Qual serviço mostra a saúde individual de um recurso?**  
-   → **Resource Health (C)**
-
-7. **O que NÃO pode ser migrado com Azure Migrate?**  
-   → **Azure AD (A)**
-
-8. **Vantagem do Azure App Service?**  
-   → **Serviço totalmente gerenciado (C)**
 
 ---
 
