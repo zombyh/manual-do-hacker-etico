@@ -1,5 +1,5 @@
 
-## 📘 Resumo Detalhado: Temas Atuais da Responsabilidade Civil
+## 📘 Resumo: Temas Atuais da Responsabilidade Civil
 
 ### 1. Proteção de Dados Pessoais e a LGPD
 
@@ -87,26 +87,5 @@
 - **Proteção de dados**: debate entre subjetividade e objetividade; aplicação restrita fora do CDC.
 - **Inteligência Artificial**: análise caso a caso, com base na tipologia e autonomia.
 - **Influenciadores digitais**: tendência à responsabilização objetiva, com limites.
-
----
-
-### 🧠 Conceitos-Chave para Links no Obsidian
-
-```markdown
-- LGPD
-- Responsabilidade Subjetiva vs. Objetiva
-- Controlador e Operador
-- Inteligência Artificial
-- Autonomia Tecnológica
-- Machine Learning
-- Influenciadores Digitais
-- Fornecedor por Equiparação
-- Publicidade Clandestina
-- CONAR
-- CDC
-- Culpa Presumida
-- Atividade de Risco
-- Reparação Integral
-```
 
 ---
