@@ -1,4 +1,3 @@
-
 ## 🗃️ Resumo: Python com Banco de Dados
 
 ### 1. Introdução
@@ -218,16 +217,5 @@ def criar_tabelas(conexao):
   - `mysql-connector-python`
   - `PyMySQL`
 - Ferramentas: DB Browser for SQLite.
-
----
-
-### 📌 Tópicos para Revisão no Obsidian
-- Conectores e PEP 249
-- Métodos de cursor e conexão
-- Comandos SQL: `CREATE`, `INSERT`, `UPDATE`, `DELETE`, `SELECT`, `JOIN`
-- Tipos de dados e afinidades no SQLite
-- Tratamento de exceções
-- Boas práticas com transações e segurança (SQL Injection)
-- Uso de ORMs
 
 ---
