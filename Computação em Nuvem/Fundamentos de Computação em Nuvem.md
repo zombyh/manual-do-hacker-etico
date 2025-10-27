@@ -1,5 +1,5 @@
 
-## 📘 Resumo para Prova: Fundamentos de Computação em Nuvem
+## 📘 Resumo: Fundamentos de Computação em Nuvem
 
 ---
 
