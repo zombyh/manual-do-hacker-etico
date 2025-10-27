@@ -1,5 +1,5 @@
 
-## 📘 Resumo para Prova de Concurso – AWS (Procergs)
+## 📘 Resumo para Prova de Concurso – AWS
 
 ---
 
@@ -98,20 +98,3 @@
 - Monitore custos e utilize classes de armazenamento adequadas no S3.
 
 ---
-
-### **7. Verificação de Aprendizado (Respostas)**
-1. **Tipos de instâncias de uso geral**: t4g, m6i, m4 (Alternativa D).
-2. **Definição de AMI**: Imagem para instanciar VMs na AWS (Alternativa A).
-3. **Classe de EBS gp3**: Volumes de boot, aplicações de baixa latência (Alternativa A).
-4. **Durabilidade do S3**: 99,999999999% (Alternativa E).
-5. **IP utilizável em sub-rede /24**: 10.0.0.254 (Alternativa B).
-6. **Mínimo de AZs para alta disponibilidade**: 2 (Alternativa B).
-7. **S3 hospeda apenas sites estáticos** (Alternativa C).
-8. **Vantagem de AMIs verificadas**: Garantia de origem confiável (Alternativa C).
-
----
-
-### **8. Conclusão**
-- A AWS oferece flexibilidade, escalabilidade e economia.
-- Mantenha-se atualizado: novos serviços e preços são lançados frequentemente.
-- Estude complementos como **RDS**, **Aurora**, e **CodeDeploy** para arquiteturas avançadas.
