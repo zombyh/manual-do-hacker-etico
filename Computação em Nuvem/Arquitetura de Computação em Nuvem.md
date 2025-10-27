@@ -102,12 +102,3 @@ A arquitetura é dividida em dois grandes grupos:
 - Migração exige planejamento e escolha da estratégia correta.
 
 ---
-
-### 🧠 Dicas para a Prova:
-- Foque em **definições de IaaS, PaaS, SaaS**.
-- Entenda bem **front-end vs back-end**.
-- Saiba diferenciar **edge computing e cloud tradicional**.
-- Memorize os **7Rs da migração**.
-- Conheça **casos de uso para balanceamento de carga e elasticidade**.
-
----
