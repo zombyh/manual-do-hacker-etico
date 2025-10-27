@@ -134,8 +134,3 @@
 - [Cartilha de Segurança – CERT.br](https://cartilha.cert.br)
 
 ---
-
-## 🧠 Próxima Aula
-- Fases de uma auditoria: planejamento, execução, relatórios, follow-up
-
----
