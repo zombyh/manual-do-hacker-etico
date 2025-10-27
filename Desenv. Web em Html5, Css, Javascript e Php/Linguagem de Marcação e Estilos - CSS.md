@@ -318,16 +318,6 @@ left: 40px;
 
 ---
 
-## 6. Conclusão
-
-### O que você aprendeu?
-- Fundamentos e sintaxe da CSS
-- Seletores, propriedades e valores
-- Box model e posicionamento
-- CSS3: cores, textos, fontes, web fonts
-- Pseudoclasses e pseudoelementos
-- Frameworks CSS e sistemas de grid
-
 ### Próximos Passos
 - Praticar com projetos reais
 - Explorar pré-processadores (SASS, LESS)
@@ -342,7 +332,3 @@ left: 40px;
 - **CodePen/JSFiddle**: Ambientes de prática online
 
 ---
-
-### 🔗 Sugestões para Links no Obsidian:
-- Linke tópicos como: `[[CSS]]`, `[[Box Model]]`, `[[Flexbox]]`, `[[Grid Layout]]`, `[[Bootstrap]]`
-- Use tags como: `#css #frontend #webdesign #estilos #responsivo`
