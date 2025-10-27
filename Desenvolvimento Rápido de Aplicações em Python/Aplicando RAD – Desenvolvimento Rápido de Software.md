@@ -1,5 +1,4 @@
-
-# 🚀 Resumo: Aplicando RAD – Desenvolvimento Rápido de Software
+## 🚀 Resumo: Aplicando RAD – Desenvolvimento Rápido de Software
 
 ## 📌 Introdução à Metodologia RAD
 - **RAD** = Desenvolvimento Rápido de Aplicações
@@ -139,12 +138,6 @@
 - Pressman (2011) – *Engenharia de Software*
 - Kerr & Hunter (1994) – *Inside RAD*
 - Alavi (1984) – Prototipagem em sistemas de informação
-
----
-
-## 🎧 Conteúdo Complementar
-- Podcasts e vídeos interativos sobre RAD
-- Sites oficiais: Python, Microsoft (normalização de BD), LGPD
 
 ---
 
