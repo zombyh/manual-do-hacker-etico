@@ -125,10 +125,4 @@
 - Plataformas: Windows NT, Netware, AS/400, UNIX, MVS
 - Verifica políticas de acesso, trilhas de auditoria, privilégios, etc.
 
-## 8. Conclusão
-- Foram apresentados:
-  - Critérios de avaliação de software de auditoria
-  - Metodologia de seleção
-  - Exemplos de softwares disponíveis no mercado
-
 ---
