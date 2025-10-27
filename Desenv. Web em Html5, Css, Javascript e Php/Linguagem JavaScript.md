@@ -1,4 +1,4 @@
-# 📘 Resumo: Linguagem JavaScript
+## 📘 Resumo: Linguagem JavaScript
 
 ## 1. Introdução ao JavaScript
 
