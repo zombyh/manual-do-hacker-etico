@@ -140,21 +140,9 @@
 
 ---
 
-## 6. Conclusão
-
-### O que você aprendeu?
-- História e evolução do HTML.
-- Estrutura básica e semântica de páginas web.
-- Uso de tags para texto, mídia, listas, tabelas e formulários.
-- Validação de formulários com HTML5.
-
 ### Próximos Passos
 - Aplicar os conhecimentos em projetos práticos.
 - Explorar CSS e JavaScript para complementar.
 - Consultar referências como MDN e W3Schools.
 
 ---
-
-### 🔗 Sugestões para Links no Obsidian:
-- Linke tópicos como: `[[HTML]]`, `[[Formulários HTML]]`, `[[Tags Semânticas]]`, `[[Validação HTML5]]`
-- Use tags como: `#html #web #frontend #estudos`
