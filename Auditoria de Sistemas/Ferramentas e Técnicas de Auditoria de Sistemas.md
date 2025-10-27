@@ -88,20 +88,6 @@
 
 ---
 
-### 5. Conclusão da Aula
-Nesta aula, você:
-- Conheceu **ferramentas de auditoria** (generalistas, especializadas, utilitárias)
-- Aprendeu sobre **hash total, header e trailer label**
-- Entendeu como **preparar programas especializados**
-- Foi apresentado a **técnicas de auditoria**: questionários, visita in loco e entrevistas
-
----
-
-### 6. Próxima Aula
-- Mais **técnicas de auditoria**
-
----
-
 ### 7. Referências
 - **Auditoria de Sistemas de Informação** – Joshua Onome Imoniana (Cap. 5)
 - **Auditoria de Computadores** – Antonio de Loureiro Gil (Cap. 3)
