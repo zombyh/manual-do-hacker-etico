@@ -1,5 +1,5 @@
 
-# 📘 Resumo: Auditoria de Sistemas – Auditorias Direcionadas
+## 📘 Resumo Detalhado: Auditoria de Sistemas – Auditorias Direcionadas
 
 ## 🎯 Objetivos da Aula
 - Estudar auditoria direcionada para **aquisição, desenvolvimento, documentação e manutenção de sistemas**.
