@@ -1,5 +1,5 @@
 
-# Resumo: Avaliação de Software de Auditoria de Sistemas
+## 📘 Resumo Detalhado: Avaliação de Software de Auditoria de Sistemas
 
 ## 1. Introdução
 - O auditor de sistemas depende de ferramentas para auxiliar nas atividades diárias.
