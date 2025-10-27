@@ -1,5 +1,5 @@
 
-## 📘 Resumo Detalhado: Política e Direito Cibernético
+## 📘 Resumo: Política e Direito Cibernético
 
 ### 1. Democracia, Eleições e Fake News
 
@@ -99,25 +99,5 @@
 - As fake news e a desinformação são instrumentos poderosos nesse processo.
 - O constitucionalismo digital apresenta visões antagônicas e harmônicas sobre a regulação da Internet.
 - A jurisdição digital exige que plataformas privadas adotem padrões constitucionais em suas decisões.
-
----
-
-### 🧠 Conceitos-Chave para Links no Obsidian
-
-```markdown
-- Democracia Procedimental
-- Democracia Substantiva
-- Fake News
-- Erosão Democrática
-- Constitucionalismo Digital
-- Jurisdição Digital
-- Eficácia Horizontal dos Direitos
-- Balkin
-- Barroso
-- Cambridge Analytica
-- Primavera Árabe
-- Economia do Clique
-- Bolhas Algorítmicas
-```
 
 ---
