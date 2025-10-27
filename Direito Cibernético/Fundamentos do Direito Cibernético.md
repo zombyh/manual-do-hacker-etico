@@ -1,5 +1,5 @@
 
-## 🧠 Resumo Detalhado: Fundamentos do Direito Cibernético
+## 🧠 Resumo: Fundamentos do Direito Cibernético
 
 ### 1. Introdução ao Direito Cibernético
 - Estudo da relação entre **Direito** e **tecnologias da informação**.
