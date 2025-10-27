@@ -145,15 +145,7 @@ preco = round(fake.random_number(digits=5) / 100, 2)
 
 ---
 
-## 📚 7. Conclusão e Próximos Passos
-
-### Habilidades Desenvolvidas:
-- Criar interfaces gráficas com Tkinter.
-- Conectar e manipular bancos PostgreSQL com psycopg2.
-- Integrar GUI e BD em uma aplicação funcional.
-- Tratar exceções e gerar dados falsos para testes.
-
-### Explore Mais:
+## 📚 7. Explore Mais:
 - Documentação oficial: [Tkinter](https://docs.python.org/3/library/tkinter.html), [psycopg2](https://www.psycopg.org/)
 - Frameworks: Kivy, PyQt, wxPython, etc.
 - Bancos: MySQL, SQLite, MongoDB (via PyMongo).
