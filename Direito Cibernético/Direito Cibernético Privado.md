@@ -1,4 +1,4 @@
-## 🧠 Resumo Detalhado: Direito Cibernético Privado
+## 🧠 Resumo: Direito Cibernético Privado
 
 ### 1. Introdução ao Direito Cibernético Privado
 - Estudo das relações entre o **Direito Privado** e as **tecnologias da informação**.
