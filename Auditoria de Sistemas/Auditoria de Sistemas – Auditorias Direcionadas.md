@@ -139,8 +139,3 @@
 - [Auditoria de Sistemas Aplicativos](http://estaciodocente.webaula.com.br/cursos/gra097/docs/08AS.doc04.pdf)
 
 ---
-
-## 🧠 Próxima Aula
-- Comunicação dos resultados: **Relatórios de Auditoria**.
-
----
