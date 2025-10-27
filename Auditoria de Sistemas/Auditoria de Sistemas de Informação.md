@@ -103,12 +103,3 @@ Presidência Executiva
   - Plano de Recuperação
 
 ---
-
-### ✅ Conclusão da Aula
-Ao final desta aula, você será capaz de:
-- Saber o que é Auditoria de Sistemas.
-- Conhecer o papel e perfil do auditor.
-- Identificar tipos de auditoria de TI.
-- Entender comportamento e ética do auditor.
-
----
