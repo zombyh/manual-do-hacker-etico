@@ -1,5 +1,5 @@
 
-## 🧠 Resumo Detalhado: Direito Penal Cibernético
+## 🧠 Resumo: Direito Penal Cibernético
 
 ### 1. Introdução ao Direito Penal Cibernético
 - **Definição**: Ramo do direito penal que aplica suas estruturas jurídicas às tecnologias da informação.
