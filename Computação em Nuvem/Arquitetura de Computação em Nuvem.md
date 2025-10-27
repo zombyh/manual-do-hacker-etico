@@ -1,5 +1,5 @@
 
-## 📘 Resumo para Prova: Arquitetura de Computação em Nuvem
+## 📘 Resumo: Arquitetura de Computação em Nuvem
 
 ---
 
