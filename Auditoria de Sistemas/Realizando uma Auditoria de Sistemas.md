@@ -118,8 +118,3 @@
 - [ISO 27001](http://www.iso27001security.com) – Norma de Segurança da Informação
 
 ---
-
-## 🧠 Próxima Aula
-- Ferramentas de auditoria
-
----
