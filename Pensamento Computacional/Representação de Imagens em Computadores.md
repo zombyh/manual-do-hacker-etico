@@ -1,5 +1,4 @@
-
-# Resumo: Representação de Imagens em Computadores
+## 📘 Resumo: Representação de Imagens em Computadores
 
 ## 1. Fundamentos de Pixels
 
