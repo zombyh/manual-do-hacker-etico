@@ -1,4 +1,4 @@
-### **Resumo para Estudo: Segurança de Aplicações e Desenvolvimento Seguro**
+## 📘 Resumo: Segurança de Aplicações e Desenvolvimento Seguro
 
 #### **1. Introdução: A Importância da Segurança no SDLC**
 A segurança de aplicações não pode ser uma reflexão tardia. Ela deve ser integrada em **todas as fases do Ciclo de Vida de Desenvolvimento de Software (SDLC - Software Development Life Cycle)**. O objetivo é identificar e mitigar vulnerabilidades o mais cedo possível, reduzindo drasticamente o custo e o esforço para corrigi-las, em comparação com a descoberta em produção.
@@ -107,8 +107,7 @@ Significa "deslocar a segurança para a esquerda" no ciclo, ou seja, para o iní
 
 ---
 
-### **Dicas para a Prova:**
+### **Dicas:**
 *   **Foque no OWASP Top 10:** Entenda a essência de cada item, seu impacto e a principal forma de prevenção. Especialmente **Injeção, Quebra de Controle de Acesso e Componentes Desatualizados**.
 *   **Diferencie SAST e DAST:** Tenha claro o momento, a abordagem e o objetivo de cada um.
 *   **Use os termos técnicos corretos:** SDLC, DevSecOps, Shift Left, Threat Modeling, CI/CD, WAF.
-*   **Pense de forma prática:** A banca pode dar um cenário e perguntar "qual vulnerabilidade do OWASP isso se encaixa?" ou "qual teste (SAST/DAST) seria mais apropriado para encontrar esse problema?".
