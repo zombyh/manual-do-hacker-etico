@@ -1,5 +1,4 @@
-
-### **Resumo para Estudo: Fundamentos de Segurança da Informação**
+## 📘 Resumo:  Fundamentos de Segurança da Informação
 
 #### **1. Conceito Central: A Tríade CIA**
 
@@ -90,7 +89,7 @@ A LGPD é a principal legislação brasileira sobre privacidade e proteção de 
 
 ---
 
-### **Dicas para a Prova da Procergs:**
+### **Dicas:**
 
 1.  **CIA é Fundamental:** Tenha claro na mente a definição e exemplos de Confidencialidade, Integridade e Disponibilidade. Provavelmente, haverá questões que testarão seu entendimento sobre qual princípio está sendo violado em um cenário hipotético.
 2.  **Diferencie as ISOs:** Foque em entender a diferença principal entre a 27001 (requisitos para o SGSI) e a 27002 (guias de implementação de controles). Saiba que a 27005 é focada no processo de gestão de riscos.
@@ -98,4 +97,4 @@ A LGPD é a principal legislação brasileira sobre privacidade e proteção de 
 4.  **Risco é Chave:** Entenda as etapas do processo de gestão de riscos e as quatro opções de tratamento (mitigar, aceitar, transferir, evitar). Uma questão pode pedir para você identificar a melhor opção em um caso.
 5.  **Terminologia:** Use os termos técnicos corretos (ex: "mitigar um risco", "controle de segurança", "titular de dados", "SGSI").
 
-Bons estudos! Este resumo cobre os pilares essenciais para a sua prova.
+---
