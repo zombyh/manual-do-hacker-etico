@@ -1,5 +1,5 @@
 
-### **Resumo para Estudo: Criptografia e Proteção de Dados**
+## 📘 Resumo: Criptografia e Proteção de Dados
 
 #### **1. Conceitos Fundamentais de Criptografia**
 
