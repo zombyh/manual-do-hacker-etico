@@ -151,10 +151,3 @@
 - É possível combinar os métodos com **tailoring** e ciclos de feedback.
 
 ---
-
-## 🔗 Links Úteis (do material)
-- Vídeos: Kanban, Métricas Lean, Cases, XP, TDD.
-- Podcast: Reforço dos conceitos.
-- Leitura adicional: *"What is Extreme Programming?"* – Ron Jeffries.
-
----
