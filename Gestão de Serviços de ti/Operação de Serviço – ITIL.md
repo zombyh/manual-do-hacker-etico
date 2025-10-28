@@ -131,8 +131,3 @@
 - Processos como Gestão de Eventos, Incidentes, Problemas e Acesso são essenciais para a estabilidade e melhoria contínua.
 
 ---
-
-## 📌 Sugestão para o Obsidian:
-- Crie notas interligadas para cada função e processo.
-- Use tags como `#ITIL`, `#OperaçãoDeServiço`, `#GestãoDeIncidentes`, `#ServiceDesk`.
-- Inclua exemplos práticos e links para os conceitos relacionados.
