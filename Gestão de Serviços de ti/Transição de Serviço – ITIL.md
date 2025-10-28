@@ -129,3 +129,5 @@ Implantar liberações no ambiente operacional com **mínimo impacto** e **máxi
 - **BMD é a fonte confiável** para componentes de software.
 - **Sabedoria não é armazenável**, mas é crucial para decisões.
 - **Liberações emergenciais** devem ser exceção, não regra.
+
+---
