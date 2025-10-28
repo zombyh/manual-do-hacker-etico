@@ -1,5 +1,4 @@
-
-# Resumo: Processos e Gerência de Processador
+## 📘 Resumo: Processos e Gerência de Processador
 
 ## 1. Introdução aos Processos
 - **Processo**: programa em execução, incluindo valores de registradores, variáveis e espaço de endereçamento.
