@@ -1,5 +1,4 @@
-
-### **Resumo para Estudo: Redes e Protocolos Seguros**
+## 📘 Resumo: Resumo para Estudo: Redes e Protocolos Seguros
 
 #### **1. Fundamentos: Pilha TCP/IP e seus Riscos**
 
@@ -91,7 +90,7 @@ A segurança de rede é inútil se os sistemas finais estiverem vulneráveis.
 
 ---
 
-### **Dicas para a Prova da Procergs:**
+### **Dicas:**
 
 1.  **Entenda a Diferença IDS vs IPS:** Esta é uma questão clássica. Lembre-se: IDS é o alarme, IPS é o alarme que também tranca a porta.
 2.  **SSL/TLS é Chave:** Saiba que ele atua entre as camadas de Transporte e Aplicação e fornece Confidencialidade, Integridade e Autenticação. Entenda o papel do certificado digital.
