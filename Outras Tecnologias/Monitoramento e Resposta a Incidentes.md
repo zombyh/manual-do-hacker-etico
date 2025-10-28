@@ -81,7 +81,7 @@ Quando um alerta do SIEM ou outra fonte é validado como um incidente real, a eq
 
 ### **Dicas:**
 
-*   **Foque no SIEM:** Entenda seu papel central de **agregação e correlação** de logs. É quase certeza que cairá uma questão.
+*   **Foque no SIEM:** Entenda seu papel central de **agregação e correlação** de logs.
 *   **Diferencie os conceitos:**
     *   **SIEM:** Ferramenta de **monitoramento e detecção**.
     *   **Resposta a Incidentes:** O **processo** de agir sobre uma detecção.
