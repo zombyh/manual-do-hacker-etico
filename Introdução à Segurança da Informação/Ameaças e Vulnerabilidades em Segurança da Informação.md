@@ -1,5 +1,4 @@
-
-# 📘 Resumo: Ameaças e Vulnerabilidades em Segurança da Informação
+## 📘 Resumo: Ameaças e Vulnerabilidades em Segurança da Informação
 
 ## 1. Conceitos Fundamentais
 
