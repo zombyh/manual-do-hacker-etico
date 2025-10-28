@@ -1,5 +1,4 @@
-
-### **Resumo para Estudo: Segurança em Hardware, Virtualização e Ameaças Físicas**
+## 📘 Resumo: Segurança em Hardware, Virtualização e Ameaças Físicas**
 
 #### **1. Arquitetura de Computadores e Segurança de Hardware**
 
@@ -83,7 +82,7 @@ Se um invasor tem acesso físico a um dispositivo, a maioria das defesas lógica
 
 ---
 
-### **Dica Final para a Prova da Procergs:**
+### **Dicas:**
 
 Relacione sempre os conceitos técnicos com os **princípios da segurança da informação**:
 *   **Confidencialidade:** Criptografia (TPM, BitLocker), Isolamento (Virtualização).
