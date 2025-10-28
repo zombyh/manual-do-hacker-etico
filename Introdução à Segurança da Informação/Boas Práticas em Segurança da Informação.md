@@ -1,5 +1,4 @@
-
-# 📘 Resumo: Boas Práticas em Segurança da Informação
+## 📘 Resumo: Boas Práticas em Segurança da Informação
 
 ## 1. Conceitos Fundamentais
 
