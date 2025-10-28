@@ -1,4 +1,4 @@
-## 📘 Resumo: Segurança em Hardware, Virtualização e Ameaças Físicas**
+## 📘 Resumo: Segurança em Hardware, Virtualização e Ameaças Físicas
 
 #### **1. Arquitetura de Computadores e Segurança de Hardware**
 
