@@ -1,5 +1,4 @@
-
-# Resumo: Gerência de Memória em Sistemas Operacionais
+## 📘 Resumo: Gerência de Memória em Sistemas Operacionais
 
 ## 📌 Descrição Geral
 A gerência de memória é uma função crítica do sistema operacional, envolvendo:
