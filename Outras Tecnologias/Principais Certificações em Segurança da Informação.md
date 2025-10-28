@@ -1,5 +1,4 @@
-
-### **Resumo para Estudo: Principais Certificações em Segurança da Informação**
+## 📘 Resumo: Principais Certificações em Segurança da Informação
 
 #### **Visão Geral Comparativa**
 
