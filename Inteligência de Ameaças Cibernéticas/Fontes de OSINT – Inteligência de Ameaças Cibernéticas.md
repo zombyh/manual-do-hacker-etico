@@ -1,5 +1,4 @@
-
-# Resumo: Fontes de OSINT – Inteligência de Ameaças Cibernéticas
+## 📘 Resumo: Fontes de OSINT – Inteligência de Ameaças Cibernéticas
 
 ## 📌 Visão Geral
 Esta aula aborda **fontes de IOCs (Indicadores de Comprometimento)**, também conhecidas como **feeds de OSINT**, e as ferramentas utilizadas para coletar e analisar essas informações.
