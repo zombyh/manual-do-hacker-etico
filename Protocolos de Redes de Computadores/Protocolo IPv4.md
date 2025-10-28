@@ -1,5 +1,4 @@
-
-# 📘 Resumo Detalhado: Protocolo IPv4
+## 📘 Resumo:  Protocolo IPv4
 
 ## 1. Introdução ao IPv4
 - **O que é**: IPv4 é a quarta versão do Protocolo de Internet, desenvolvida originalmente pela ARPANET.
