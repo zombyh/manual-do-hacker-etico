@@ -1,5 +1,4 @@
-
-### **Resumo para Estudo: Gestão de Acessos e Identidades (IAM - Identity and Access Management)**
+## 📘 Resumo: Gestão de Acessos e Identidades (IAM - Identity and Access Management)
 
 #### **1. Conceito Central: O Princípio do Menor Privilégio (Least Privilege)**
 
@@ -88,7 +87,7 @@ A autenticação pode ser baseada em algo que o usuário **sabe**, **tem** ou **
 
 ---
 
-### **Dicas para a Prova da Procergs:**
+### **Dicas**
 
 1.  **Foque no Princípio do Menor Privilégio:** É a base de tudo. Muitas questões de prova giram em torno dessa ideia.
 2.  **Domine a Diferença entre Autenticação e Autorização:** Esta é uma distinção fundamental. **Autenticação** prova a identidade. **Autorização** concede permissões.
