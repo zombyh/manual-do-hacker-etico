@@ -48,4 +48,4 @@
 *   **Domínios Principais (8 Domínios):** Segurança e Gerenciamento de Riscos; Ativos de Segurança; Arquitetura e Engenharia de Segurança; Comunicação e Segurança de Rede; Gerenciamento de Identidade e Acesso; Avaliação e Teste de Segurança; Operações de Segurança; Segurança no Desenvolvimento de Software.
 *   **Formato da Prova:** Múltipla escolha adaptativa (CAT), questions de alto nível que testam julgamento.
 *   **Pré-requisito:** **5 anos de experiência profissional remunerada** em 2 ou mais dos 8 domínios.
-*   **Por que fazer?** É a certificação mais reconhecida globalmente para profissionais seniores de segurança. É praticamente um pré-requisito
+*   **Por que fazer?** É a certificação mais reconhecida globalmente para profissionais seniores de segurança. É praticamente um pré-requisito.
