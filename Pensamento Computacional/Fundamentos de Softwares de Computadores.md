@@ -1,5 +1,4 @@
-
-# Resumo: Fundamentos de Softwares de Computadores
+## 📘 Resumo: Fundamentos de Softwares de Computadores
 
 ## 1. Introdução aos Softwares
 - **Software**: Conjunto de instruções que determinam as ações executadas por um computador ou dispositivo eletrônico.
