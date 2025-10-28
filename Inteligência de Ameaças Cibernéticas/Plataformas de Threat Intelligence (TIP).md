@@ -1,5 +1,4 @@
-
-# Resumo: Plataformas de Threat Intelligence (TIP)
+## 📘 Resumo: Plataformas de Threat Intelligence (TIP)
 
 ## 📌 O que é uma TIP?
 - **Threat Intelligence Platform (TIP)** é uma plataforma usada para coletar, analisar, armazenar e compartilhar informações sobre ameaças cibernéticas.
@@ -80,33 +79,5 @@
 - Integração com ferramentas de segurança (SIEM, IDS).
 - Redução da sobrecarga do analista.
 - Melhoria na resposta a incidentes.
-
----
-
-## ❓ Perguntas de Revisão (com respostas)
-
-1. **Quais são as funções de um TIP?**  
-   → Coleta, análise, disseminação e compartilhamento. **(e)**
-
-2. **Quais são exemplos de TIPs?**  
-   → ThreatConnect, MISP, AlienVault OTX. **(c)**
-
-3. **O que é pivoteamento?**  
-   → Buscar mais informações a partir de um ponto de partida (ex.: um IOC). **(b)**
-
-4. **Uma vantagem da TIP é centralizar eventos e IOCs para o analista.**  
-   → Verdadeiro. **(V)**
-
-5. **Quais vantagens justificam a adoção de uma TIP?**  
-   → Todas as anteriores: coleta automática, redução de sobrecarga, correlação e integração. **(e)**
-
----
-
-## 📚 Próximos Temas
-- Modelo **Cyber Kill Chain**
-- Leitura recomendada:  
-  - *MSSP Alert – FireEye Helix*  
-  - *TIP vs SIEM vs Ticketing System*  
-  - *Recorded Future For Threat Analysis*
 
 ---
