@@ -1,4 +1,4 @@
-## 📘 Resumo: Testes de Penetração, Engenharia Social e Phishing**
+## 📘 Resumo: Testes de Penetração, Engenharia Social e Phishing
 
 #### **1. Testes de Penetração (PenTest)**
 
