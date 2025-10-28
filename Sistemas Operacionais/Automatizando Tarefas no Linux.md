@@ -1,5 +1,4 @@
-
-# Resumo: Automatizando Tarefas no Linux
+## 📘 Resumo: Automatizando Tarefas no Linux
 
 ## 1. Introdução à Automação
 - **Objetivo**: Automatizar tarefas rotineiras em servidores e estações Linux
