@@ -1,5 +1,4 @@
-
-# Resumo: O que é um Indicador de Compromisso (IOC)
+## 📘 Resumo: O que é um Indicador de Compromisso (IOC)
 
 ## 📌 Apresentação
 Esta aula introduz o conceito de **Indicadores de Compromisso (IOCs)** – elementos cruciais para a geração de relatórios de inteligência de ameaças cibernéticas. Aborda tipos de IOCs, uso de sandboxes e enriquecimento de informações.
