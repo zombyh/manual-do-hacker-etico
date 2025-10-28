@@ -70,7 +70,7 @@ Quando você acessa um site com `https://`, acontece o seguinte ("SSL/TLS Handsh
 
 ---
 
-### **Dicas para a Prova (Criptografia):**
+### **Dicas:**
 
 *   **Memorize a Diferença Chave:**
     *   **Simétrica:** **1 chave** (AES) -> **RÁPIDA** -> para **dados**.
