@@ -1,5 +1,4 @@
-
-# 🧠 Resumo Detalhado: Protocolos de Aplicação da Internet
+## 🧠 Resumo: Protocolos de Aplicação da Internet
 
 ## 📌 Introdução
 - **Objetivo**: Compreender os principais protocolos de aplicação da internet, seu funcionamento, monitoramento e troubleshooting.
