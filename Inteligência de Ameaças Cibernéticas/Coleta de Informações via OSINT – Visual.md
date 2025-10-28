@@ -1,5 +1,4 @@
-
-# Resumo: Coleta de Informações via OSINT – Visual
+## 📘 Resumo: Coleta de Informações via OSINT – Visual
 
 ## 📌 Visão Geral da Aula
 - **Tema**: Inteligência de Ameaças Cibernéticas
