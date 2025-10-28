@@ -1,5 +1,4 @@
-
-## 📘 Resumo: Automação de Tarefas de Segurança com PowerShell, Python e Shell Script**
+## 📘 Resumo: Automação de Tarefas de Segurança com PowerShell, Python e Shell Script
 
 A automação é a espinha dorsal da segurança operacional moderna (SecOps). Ela permite escalar processos, reduzir erros humanos, responder a incidentes com velocidade e manter uma postura de segurança proativa.
 
