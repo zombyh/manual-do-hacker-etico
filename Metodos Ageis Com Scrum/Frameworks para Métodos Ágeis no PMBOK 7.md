@@ -108,13 +108,3 @@ São grupos de atividades críticas para a entrega eficaz do projeto.
   - Melhorar continuamente com base em feedback (ex.: retrospectivas).
 
 ---
-
-## 🔗 Sugestões de Ligações no Obsidian
-- `PMBOK 7 - Princípios` → `Scrum - Valores`
-- `Domínios de Desempenho` → `Framework Híbrido`
-- `Tailoring` → `Adaptação de Métodos`
-- `Partes Interessadas` → `Comunicação Eficaz`
-- `Liderança Servidora` → `Equipe de Alto Desempenho`
-
----
-
