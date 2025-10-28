@@ -98,28 +98,11 @@ Cada técnica possui:
 
 ---
 
-## ✅ Perguntas de Revisão (Respostas)
-
-1. **b) É um modelo com diferentes táticas e técnicas utilizadas em um ataque.**
-2. **a) Pre-ATT&CK, Enterprise, Mobile, Cloud.**
-3. **c) Credential Access.**
-4. **b) Defense Evasion.**
-
----
-
 ## 🔗 Referências Principais
 
 - [Site Oficial do MITRE ATT&CK](https://attack.mitre.org/)
 - [CVE – Common Vulnerabilities and Exposures](https://cve.mitre.org/)
 - [ATT&CK for Mobile](https://attack.mitre.org/resources/mobile-introduction/)
 - [ATT&CK Roadmap](https://attack.mitre.org/docs/attack_roadmap.pdf)
-
----
-
-## 🧠 Palavras-Chave para Obsidian
-
-```
-#MITRE #ATT&CK #Táticas #Técnicas #InitialAccess #Persistence #DefenseEvasion #LateralMovement #CredentialAccess #Exfiltration #C2 #CTI #Segurança #Cybersecurity
-```
 
 ---
