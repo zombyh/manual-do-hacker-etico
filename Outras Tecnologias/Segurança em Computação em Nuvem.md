@@ -1,5 +1,4 @@
-
-### **Resumo para Estudo: Segurança em Computação em Nuvem (AWS, Azure & Hardening)**
+## 📘 Resumo: Segurança em Computação em Nuvem (AWS, Azure & Hardening)
 
 #### **1. Princípios Fundamentais da Segurança em Nuvem (O "Tripé de Ouro")**
 
@@ -97,11 +96,11 @@ Hardening é o processo de tornar um sistema mais seguro ao eliminar vulnerabili
 
 ---
 
-#### **6. Dicas para a Prova (Contexto Procergs)**
+#### **6. Dicas:**
 
-1.  **Foque no Modelo de Responsabilidade Compartilhada:** É quase certeza de cair. Saiba exatamente onde termina a responsabilidade da AWS/Azure e começa a sua.
+1.  **Foque no Modelo de Responsabilidade Compartilhada:** Saiba exatamente onde termina a responsabilidade da AWS/Azure e começa a sua.
 2.  **Entenda IAM/Azure AD:** Saber a diferença entre usuário, grupo, role (AWS) e entidade de serviço (Azure) é fundamental.
 3.  **Privilégio Mínimo:** Este princípio guia quase todas as melhores práticas de segurança.
 4.  **Conheça os Serviços Nativos:** Não é necessário decorar todos, mas saiba a finalidade dos principais: GuardDuty, Defender for Cloud, WAF, KMS/Key Vault.
-5.  **Hardening Baseado em CIS:** Mencionar o CIS Benchmark como referência para hardening mostra conhecimento aprofundado.
-6.  **Pense em Conformidade (LGPD):** Como a nuvem ajuda a Procergs a estar em conformidade com a LGPD? (Através de criptografia, controle de acesso e auditoria).
+5.  **Hardening Baseado em CIS:** Aprenda sobre o CIS Benchmark como referência de hardening, para aprofundar seus conhecimentos.
+6.  **Pense em Conformidade (LGPD):** Como a nuvem ajuda a estar em conformidade com a LGPD? (Através de criptografia, controle de acesso e auditoria).
