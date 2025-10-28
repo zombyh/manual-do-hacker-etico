@@ -1,5 +1,5 @@
 
-### **Resumo para Estudo: Automação de Tarefas de Segurança com PowerShell, Python e Shell Script**
+## 📘 Resumo: Automação de Tarefas de Segurança com PowerShell, Python e Shell Script**
 
 A automação é a espinha dorsal da segurança operacional moderna (SecOps). Ela permite escalar processos, reduzir erros humanos, responder a incidentes com velocidade e manter uma postura de segurança proativa.
 
@@ -136,12 +136,3 @@ Cada linguagem/Shell tem seu forte e é comum ver ambientes que utilizam todas e
 *   **Teste em Ambiente Controlado:** Sempre teste exaustivamente em um ambiente de laboratório antes de rodar em produção. Um script de automação poderoso pode causar uma pane generalizada se tiver um bug.
 
 ---
-
-### **Dica para a Prova da Procergs:**
-
-Entenda o **contexto de uso** de cada ferramenta:
-*   **PowerShell:** É a chave para ambientes **Microsoft** (Windows Server, Active Directory, Azure).
-*   **Shell Script:** É a base para administração e segurança de servidores **Linux**.
-*   **Python:** É a ferramenta para **desenvolver soluções customizadas** e integrar diferentes sistemas via APIs.
-
-Pense em como a automação apoia os **princípios de segurança**: confidencialidade (criptografando dados), integridade (verificando hashes de arquivos) e disponibilidade (monitorando a saúde dos sistemas).
