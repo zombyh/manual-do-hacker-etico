@@ -1,5 +1,4 @@
-
-### **Resumo para Estudo: Testes de Penetração, Engenharia Social e Phishing**
+## 📘 Resumo: Testes de Penetração, Engenharia Social e Phishing**
 
 #### **1. Testes de Penetração (PenTest)**
 
@@ -101,7 +100,7 @@ Seguem uma abordagem estruturada, como a **MITRE ATT&CK Framework** ou **OWASP T
 
 ---
 
-#### **5. Defesas e Mitigações (O que a Procergs pode fazer)**
+#### **5. Defesas e Mitigações**
 
 *   **Contra Engenharia Social e Phishing:**
     *   **Treinamento de Conscientização Contínuo:** É a defesa **número um**. Simulações de phishing para ensinar os usuários.
@@ -116,5 +115,5 @@ Seguem uma abordagem estruturada, como a **MITRE ATT&CK Framework** ou **OWASP T
     *   **Hardening de Sistemas:** Seguir benchmarks de segurança (CIS).
     *   **Monitoramento e Resposta (SOC/SIEM):** Detectar atividades anômalas (tentativas de exploração, movimentação lateral).
     *   **Segmentação de Rede:** Dificultar o movimento lateral de um possível invasor.
-
-**Bons estudos!** Foque em entender os **conceitos** por trás das ferramentas e as **mitigações**, que são tão importantes quanto os ataques para uma prova de segurança.
+ 
+---
