@@ -1,5 +1,4 @@
-
-# Resumo: Operação de Serviço – ITIL
+## 📘 Resumo: Operação de Serviço – ITIL
 
 ## 1. Introdução à Operação de Serviço
 - **Propósito**: Entender o papel da Operação de Serviços no ciclo de vida dos serviços de TI, integrando-se com as fases de Estratégia, Desenho, Transição e Melhoria Contínua.
