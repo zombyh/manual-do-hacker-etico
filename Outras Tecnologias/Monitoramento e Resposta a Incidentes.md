@@ -1,5 +1,4 @@
-
-### **Resumo para Estudo: Monitoramento e Resposta a Incidentes**
+## 📘 Resumo: Monitoramento e Resposta a Incidentes
 
 #### **1. Conceitos Fundamentais**
 
@@ -80,7 +79,7 @@ Quando um alerta do SIEM ou outra fonte é validado como um incidente real, a eq
 
 ---
 
-### **Dicas para a Prova (Monitoramento e Resposta):**
+### **Dicas:**
 
 *   **Foque no SIEM:** Entenda seu papel central de **agregação e correlação** de logs. É quase certeza que cairá uma questão.
 *   **Diferencie os conceitos:**
