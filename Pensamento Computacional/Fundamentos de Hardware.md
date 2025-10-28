@@ -1,5 +1,4 @@
-
-# Resumo: Fundamentos de Hardware
+## 📘 Resumo: Fundamentos de Hardware
 
 ## 1. O que é Hardware?
 - **Hardware** refere-se aos **componentes físicos** de dispositivos tecnológicos (ex.: computadores, celulares).
