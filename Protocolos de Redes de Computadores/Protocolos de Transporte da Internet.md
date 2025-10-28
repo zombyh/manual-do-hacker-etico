@@ -1,5 +1,4 @@
-
-# 🧠 Resumo Detalhado: Protocolos de Transporte da Internet
+## 🧠 Resumo: Protocolos de Transporte da Internet
 
 ## 📌 Introdução
 - **Objetivo**: Compreender o funcionamento dos protocolos de transporte (TCP e UDP), sua análise e aplicação em redes e sistemas distribuídos.
