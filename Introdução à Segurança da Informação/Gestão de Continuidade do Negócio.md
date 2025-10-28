@@ -1,5 +1,4 @@
-
-# 📘 Resumo: Gestão de Continuidade do Negócio
+## 📘 Resumo: Gestão de Continuidade do Negócio
 
 ## 1. Conceitos Fundamentais
 
