@@ -1,5 +1,4 @@
-
-# Resumo: Introdução à Inteligência de Ameaças Cibernéticas (CTI)
+## 📘 Resumo: Introdução à Inteligência de Ameaças Cibernéticas (CTI)
 
 ## 📌 O que é CTI?
 - **Cyber Threat Intelligence (CTI)** é a área responsável por coletar, analisar e transformar informações sobre ameaças cibernéticas em **produtos de inteligência** acionáveis.
