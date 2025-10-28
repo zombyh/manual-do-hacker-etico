@@ -1,5 +1,4 @@
-
-# Resumo: Conceitos Básicos de Sistemas Operacionais
+## 📘 Resumo: Conceitos Básicos de Sistemas Operacionais
 
 ## 📌 Visão Geral
 - **Sistema Operacional**: Software que atua como intermediário entre hardware e aplicações.
