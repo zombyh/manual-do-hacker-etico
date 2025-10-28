@@ -1,5 +1,4 @@
-
-# Resumo: Princípios Fundamentais da Computação
+## 📘 Resumo: Princípios Fundamentais da Computação
 
 ## 1. Equação Essencial dos Computadores
 
