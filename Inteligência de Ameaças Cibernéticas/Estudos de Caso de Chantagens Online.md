@@ -92,19 +92,3 @@
   - Pagamento não garante silêncio ou solução.
 
 ---
-
-## ❓ Perguntas de Revisão (Respostas)
-1. **a) Verdadeiro** – Sextortion pode ser real ou falso.
-2. **b) Sim** – Reutilizar senhas expõe a vítima a novos ataques.
-3. **b) As transações associadas àquele endereço Bitcoin.**
-4. **e) Opções A e C** – Revela se o e-mail foi vazado e em qual base.
-5. **b) Sim** – A equipe de rede pode tratar tráfego TCP na porta 53 de forma especial.
-
----
-
-## 📌 Palavras-Chave para Obsidian
-```
-#Sextortion #DDoS #Bitcoin #OSINT #Maltego #CTI #HaveIBeenPwned #Blockchain #ThreatIntelligence #Segurança #EngenhariaSocial #VazamentoDeDados #ArmadaCollective #GovCERT #Cloudflare
-```
-
----
