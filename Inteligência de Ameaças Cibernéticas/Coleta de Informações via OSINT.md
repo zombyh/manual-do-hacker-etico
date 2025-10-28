@@ -1,5 +1,4 @@
-
-# Resumo: Coleta de Informações via OSINT
+## 📘 Resumo:  Coleta de Informações via OSINT
 
 ## 📌 Visão Geral da Aula
 - **Disciplina**: Inteligência de Ameaças Cibernéticas  
