@@ -1,5 +1,4 @@
-
-# 🌐 Resumo Detalhado: Protocolo IPv6
+## 🌐 Resumo: Protocolo IPv6
 
 ## 1. Introdução ao IPv6
 - **O que é**: IPv6 é a sexta versão do Protocolo de Internet, criada para substituir o IPv4.
