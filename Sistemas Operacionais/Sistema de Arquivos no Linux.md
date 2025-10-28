@@ -1,4 +1,4 @@
-# Resumo: Sistema de Arquivos no Linux
+## 📘 Resumo: Sistema de Arquivos no Linux
 
 ## 📌 Visão Geral
 - **Sistema de Arquivos**: Estrutura lógica que organiza e gerencia dados em dispositivos de armazenamento.
