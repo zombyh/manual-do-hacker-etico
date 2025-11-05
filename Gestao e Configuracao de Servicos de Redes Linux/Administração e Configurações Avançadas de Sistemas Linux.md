@@ -1,5 +1,4 @@
-
-## 📘 Resumo: Administração e Configurações Avançadas de Sistemas Linux
+### 📘 Resumo: Administração e Configurações Avançadas de Sistemas Linux
 
 ### 🎯 **Propósito**
 Compreender conceitos avançados de administração Linux, essenciais para profissionais de infraestrutura de TI, considerando a relevância do Linux em ambientes corporativos e em nuvem.
