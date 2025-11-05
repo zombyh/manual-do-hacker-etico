@@ -1,5 +1,4 @@
-
-## 🧠 Resumo: Controle de Acesso e Compartilhamento de Arquivos em Linux
+### 🧠 Resumo: Controle de Acesso e Compartilhamento de Arquivos em Linux
 
 ### 📌 Visão Geral
 Este conteúdo aborda três pilares fundamentais para infraestrutura de TI em Linux:
