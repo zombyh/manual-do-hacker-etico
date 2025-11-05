@@ -1,5 +1,4 @@
-
-## 📘 **Resumo: Administração e Configurações Essenciais do Linux**
+### 📘 **Resumo: Administração e Configurações Essenciais do Linux**
 
 ### **Módulo 1: Gerenciamento de Arquivos e Diretórios**
 
