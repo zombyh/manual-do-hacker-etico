@@ -1,7 +1,6 @@
+## 🐧 Resumo: Instalação e Ajustes do Sistema Operacional Linux
 
-# 🐧 Resumo: Instalação e Ajustes do Sistema Operacional Linux
-
-## 1. Introdução ao Linux e Distribuições
+### 1. Introdução ao Linux e Distribuições
 
 ### 1.1. O que é o Linux?
 - Sistema operacional moderno, gratuito, baseado no UNIX.
