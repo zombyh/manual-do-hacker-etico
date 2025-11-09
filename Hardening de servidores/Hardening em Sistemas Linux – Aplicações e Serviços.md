@@ -1,4 +1,3 @@
-
 ## 🛡️ Resumo: Hardening em Sistemas Linux – Aplicações e Serviços
 
 ### 📌 Objetivo Geral
