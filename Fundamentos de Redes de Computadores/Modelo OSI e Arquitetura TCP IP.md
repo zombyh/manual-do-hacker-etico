@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Modelo OSI e Arquitetura TCP/IP
 
 ---
