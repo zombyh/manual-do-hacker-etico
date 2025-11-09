@@ -1,4 +1,3 @@
-
 ## 🧠 Resumo: Pensamento Computacional e Aplicações
 
 ---
