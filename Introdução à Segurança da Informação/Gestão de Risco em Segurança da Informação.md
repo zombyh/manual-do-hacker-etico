@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Gestão de Risco em Segurança da Informação
 
 ### 1. **Conceitos Fundamentais**
