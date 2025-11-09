@@ -49,7 +49,7 @@
 *   **Problema que resolve:** Como ter certeza de que uma **Chave Pública** realmente pertence à pessoa/entidade que diz ser? A PKI resolve isso com **Autoridades Certificadoras**.
 *   **Componentes Principais:**
     *   **Autoridade Certificadora (CA - Certificate Authority):** Entidade confiável de terceiros (ex: Let's Encrypt, DigiCert, Sectigo) ou própria (CA interna) que **emite** e **assina** certificados digitais. Ela é a âncora de confiança.
-    *   **Certificado Digital:** É um documento eletrônico que associa uma identidade (ex: `www.procergs.rs.gov.br`) a uma **Chave Pública**. Ele é **assinado digitalmente** pela CA, atestando sua validade.
+    *   **Certificado Digital:** É um documento eletrônico que associa uma identidade (ex: `www.empresa.com.br`) a uma **Chave Pública**. Ele é **assinado digitalmente** pela CA, atestando sua validade.
     *   **Autoridade de Registro (RA - Registration Authority):** Responsável por verificar a identidade de quem solicita um certificado antes de a CA emitir.
     *   **Lista de Certificados Revogados (CRL - Certificate Revocation List):** Uma lista, mantida pela CA, de certificados que foram revogados (cancelados) antes de sua data de expiração. Protocolos como **OCSP (Online Certificate Status Protocol)** são usados para verificar em tempo real se um certificado é válido.
 

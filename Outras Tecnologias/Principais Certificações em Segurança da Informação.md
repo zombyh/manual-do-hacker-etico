@@ -21,7 +21,7 @@
 *   **Domínios Principais:** Ataques, ameaças e vulnerabilidades; Arquitetura e design; Implementação; Operações e resposta a incidentes; Governança, risco e compliance.
 *   **Formato da Prova:** Múltipla escolha e performance-based (simulações).
 *   **Pré-requisito:** Recomenda-se Network+ e 2 anos de experiência em TI.
-*   **Por que fazer?** É um diferencial para vagas de entrada (SOC Analyst, Administrador de Sistemas) e é frequentemente um requisito mínimo em editais (como os da Procergs). É a base para todas as outras.
+*   **Por que fazer?** É um diferencial para vagas de entrada (SOC Analyst, Administrador de Sistemas) e é frequentemente um requisito mínimo em editais. É a base para todas as outras.
 
 #### **2. CEH (Certified Ethical Hacker)**
 

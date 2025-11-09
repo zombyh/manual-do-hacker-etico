@@ -58,7 +58,7 @@ Seguem uma abordagem estruturada, como a **MITRE ATT&CK Framework** ou **OWASP T
 
 **Indicadores (IOCs) de um E-mail de Phishing:**
 *   **Sensação de Urgência:** "Sua conta será bloqueada em 24h!"
-*   **Remetente Suspeito:** E-mail similar, mas não igual, ao oficial (ex: `suporte@procergs.com.br` vs `suporte@procergs.org`).
+*   **Remetente Suspeito:** E-mail similar, mas não igual, ao oficial (ex: `suporte@empresa.com.br` vs `suporte@empresa.org`).
 *   **Saudação Genérica:** "Prezado cliente" em vez do seu nome.
 *   **Links Maliciosos:** Passar o mouse sobre o link (sem clicar) revela um endereço diferente.
 *   **Anexos Inesperados:** Arquivos `.zip`, `.exe`, `.pdf.exe`.

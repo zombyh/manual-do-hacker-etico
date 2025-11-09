@@ -40,7 +40,7 @@ O **SSL (Secure Sockets Layer)** e seu sucessor, o **TLS (Transport Layer Securi
 #### **3. Mecanismos de Defesa de Rede**
 
 *   **Firewall**
-    *   **O que é:** Um sistema (hardware, software ou ambos) que atua como uma **barreira** entre uma rede confiável (ex: rede interna da Procergs) e uma rede não confiável (ex: internet), controlando o tráfego com base em um conjunto de regras de segurança predefinidas.
+    *   **O que é:** Um sistema (hardware, software ou ambos) que atua como uma **barreira** entre uma rede confiável (ex: rede interna da empresa) e uma rede não confiável (ex: internet), controlando o tráfego com base em um conjunto de regras de segurança predefinidas.
     *   **Como funciona:** Analisa os pacotes de dados e decide se permite (allow) ou bloqueia (deny) a passagem com base em:
         *   **Endereço IP de origem/destino**
         *   **Porta (ex: bloquear a porta 23 - Telnet)**

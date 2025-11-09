@@ -8,7 +8,7 @@ A segurança na nuvem é construída sobre três pilares, frequentemente chamado
 *   **Disponibilidade:** Garantir que os dados e sistemas estejam acessíveis quando necessários. *Como?* Tolerância a falhas, escalabilidade, proteção contra DDoS.
 
 Além do CIA, dois conceitos são **CRUCIAIS** para provas:
-*   **Modelo de Responsabilidade Compartilhada:** Define o que é de responsabilidade do provedor de nuvem (Cloud Provider) e o que é do cliente (Você/Procergs).
+*   **Modelo de Responsabilidade Compartilhada:** Define o que é de responsabilidade do provedor de nuvem (Cloud Provider) e o que é do cliente (Você/Empresa).
     *   **Provedor (AWS/Azure):** Segurança **DA** nuvem (Infraestrutura física, hardware, rede, hipervisor).
     *   **Cliente:** Segurança **NA** nuvem (Dados, sistemas operacionais, configurações de rede, gerenciamento de acesso, criptografia de dados do cliente).
     *   *Você SEMPRE será responsável pelos seus dados e por quem tem acesso a eles.*
