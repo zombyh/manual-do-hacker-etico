@@ -1,4 +1,3 @@
-
 ## 📚 Resumo: Conceitos Básicos de Segurança de Redes
 
 ## 🎯 Objetivo da Aula
@@ -96,7 +95,7 @@ Podem ser classificados como:
 
 ---
 
-## 💡 Boas Pruntas para Planejamento de Segurança
+## 💡 Boas Perguntas para Planejamento de Segurança
 - Como controlar acessos remotos?
 - Como garantir senhas fortes?
 - Vale a pena usar criptografia?
