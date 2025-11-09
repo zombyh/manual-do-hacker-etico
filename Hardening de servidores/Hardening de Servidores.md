@@ -1,4 +1,3 @@
-
 ## 🛡️ Resumo: Hardening de Servidores
 
 ### 📌 Definição de Hardening
