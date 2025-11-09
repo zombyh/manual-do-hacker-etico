@@ -1,5 +1,4 @@
-
-# Resumo: Perícia Forense – Parte I
+## Resumo: Perícia Forense – Parte I
 
 ## 📌 Visão Geral
 A **perícia forense computacional** é a disciplina que visa **coletar, analisar e preservar evidências digitais** para apoiar investigações criminais ou ações disciplinares, seguindo rigor técnico e amparo legal.
