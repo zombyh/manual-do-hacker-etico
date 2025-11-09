@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Hardening em Sistemas Operacionais Windows
 
 ### 🎯 **Objetivo Geral**
