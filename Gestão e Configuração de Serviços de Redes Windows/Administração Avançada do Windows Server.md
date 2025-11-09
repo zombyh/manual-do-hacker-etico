@@ -1,4 +1,3 @@
-
 ## 🧠 Resumo Detalhado: Administração Avançada do Windows Server
 
 ### 1. Gestão em Lote de Objetos do AD via PowerShell
