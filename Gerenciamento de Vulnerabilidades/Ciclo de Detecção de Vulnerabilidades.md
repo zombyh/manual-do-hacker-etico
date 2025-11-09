@@ -1,5 +1,4 @@
-
-# Resumo: Ciclo de Detecção de Vulnerabilidades
+## Resumo: Ciclo de Detecção de Vulnerabilidades
 
 ## 📌 Objetivo da Aula
 - Definir o **escopo** de um teste de vulnerabilidades.
