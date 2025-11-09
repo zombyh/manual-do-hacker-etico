@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Ferramentas para o Gerenciamento de Vulnerabilidades – Parte II
 
 ### 📌 Visão Geral
