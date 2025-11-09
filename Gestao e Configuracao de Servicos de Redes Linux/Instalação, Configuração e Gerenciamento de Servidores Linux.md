@@ -1,5 +1,4 @@
-
-# 🐧 Resumo: Instalação, Configuração e Gerenciamento de Servidores Linux
+## 🐧 Resumo: Instalação, Configuração e Gerenciamento de Servidores Linux
 
 ## 1. Servidor Web Apache
 
