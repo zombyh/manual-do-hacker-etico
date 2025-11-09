@@ -1,4 +1,3 @@
-
 ## 🧠 Resumo: Fundamentos do Direito Cibernético
 
 ### 1. Introdução ao Direito Cibernético
