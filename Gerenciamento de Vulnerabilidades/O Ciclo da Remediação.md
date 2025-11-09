@@ -1,5 +1,4 @@
-
-# 📚 Resumo: O Ciclo da Remediação
+## 📚 Resumo: O Ciclo da Remediação
 
 ## 🎯 Objetivos da Aula
 - Definir prioridades para a remediação de vulnerabilidades.
