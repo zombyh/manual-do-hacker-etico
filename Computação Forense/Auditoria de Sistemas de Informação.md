@@ -1,5 +1,4 @@
-
-# Resumo: Auditoria de Sistemas de Informação
+## Resumo: Auditoria de Sistemas de Informação
 
 ## 📌 Conceitos Gerais
 - A **auditoria de sistemas** é parte do processo geral de auditoria e um facilitador da governança corporativa.
