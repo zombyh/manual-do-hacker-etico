@@ -1,4 +1,3 @@
-
 ## 📘 Resumo Detalhado: Auditoria de Sistemas – Auditorias Direcionadas
 
 ## 🎯 Objetivos da Aula
