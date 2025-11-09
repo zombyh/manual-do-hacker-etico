@@ -1,5 +1,4 @@
-
-# 🛡️ Segurança na Infraestrutura em Nuvem – Resumo Estruturado
+## 🛡️ Segurança na Infraestrutura em Nuvem – Resumo Estruturado
 
 ## 📌 Introdução
 - A computação em nuvem representa uma **mudança de paradigma** na forma como a TI e a segurança da informação são abordadas.
