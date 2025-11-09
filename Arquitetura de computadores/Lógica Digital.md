@@ -1,5 +1,4 @@
-
-# 📘 Resumo para Prova de Concurso: Lógica Digital
+## 📘 Resumo para Prova de Concurso: Lógica Digital
 
 ## 📌 1. Introdução à Lógica Digital
 - Computadores operam em **sistema binário (0 e 1)**.
