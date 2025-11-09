@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Indicadores de Compromisso (IOC)
 
 ### 🔍 **O que é um IOC?**
