@@ -1,4 +1,3 @@
-
 ## 🎯 Resumo: Aula 09 – Modelo MITRE ATT&CK
 
 ### 📌 Objetivos da Aula
