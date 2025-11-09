@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Hardening – Ameaças, Web Proxy e Kernel Tuning
 
 ### 🎯 **Objetivo Geral**
