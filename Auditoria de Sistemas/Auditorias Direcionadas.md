@@ -1,4 +1,3 @@
-
 ## 📘 Resumo Detalhado: Auditorias Direcionadas
 
 ### 1. **Auditoria de Redes**
