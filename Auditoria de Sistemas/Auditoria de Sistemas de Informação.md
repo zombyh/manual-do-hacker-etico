@@ -1,4 +1,3 @@
-
 ## 📘 Resumo Detalhado: Auditoria de Sistemas de Informação
 
 ### 1. **O que é Auditoria de Sistemas?**
@@ -93,13 +92,5 @@ Presidência Executiva
 - **CISA** (Certified Information Systems Auditor) – ISACA
 - **British Computer Society**
 - **IIA Qualification in Computer Auditing**
-
----
-
-### 11. **Próximos Passos (Próxima Aula)**
-- **Planos de Contingência**:
-  - Plano de Backup
-  - Plano de Emergência
-  - Plano de Recuperação
 
 ---
