@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Paradigmas e Linguagem Python
 
 ### 🔹 Módulo 1: Classificação das Linguagens de Programação
