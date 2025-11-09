@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: **Interface Gráfica com Python + PostgreSQL (Tkinter + psycopg2)**
 
 ### 📌 Objetivos do Conteúdo:
