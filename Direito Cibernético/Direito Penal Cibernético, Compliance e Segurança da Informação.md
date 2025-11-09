@@ -1,4 +1,3 @@
-
 ## 🧠 Resumo: Direito Penal Cibernético, Compliance e Segurança da Informação
 
 ### 1. Direito Penal Cibernético: Fundamentos e Princípios
