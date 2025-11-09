@@ -1,5 +1,4 @@
-
-# 📚 Resumo: Introdução ao Gerenciamento de Vulnerabilidades
+## 📚 Resumo: Introdução ao Gerenciamento de Vulnerabilidades
 
 ## 🎯 Objetivos da Aula
 - Identificar tipos de vulnerabilidades.
