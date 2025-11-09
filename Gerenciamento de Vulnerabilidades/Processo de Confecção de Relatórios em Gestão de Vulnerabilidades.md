@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Processo de Confecção de Relatórios em Gestão de Vulnerabilidades
 
 ### 1. **Trilhas de Auditoria**
