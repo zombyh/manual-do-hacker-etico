@@ -1,5 +1,4 @@
-
-# 🎨 Resumo Detalhado: Linguagem de Marcação e Estilos - CSS
+## 🎨 Resumo Detalhado: Linguagem de Marcação e Estilos - CSS
 
 ## 1. Introdução ao CSS
 
