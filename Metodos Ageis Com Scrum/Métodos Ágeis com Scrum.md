@@ -1,4 +1,3 @@
-
 ## 🧠 Resumo Detalhado: Métodos Ágeis com Scrum
 
 ### 📌 Introdução
