@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Políticas de Segurança e Comportamento Organizacional
 
 ### 1. Introdução às Políticas Organizacionais
