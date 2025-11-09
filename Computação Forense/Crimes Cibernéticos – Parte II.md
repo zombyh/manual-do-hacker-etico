@@ -1,5 +1,4 @@
-
-### 🧠 Resumo: Crimes Cibernéticos – Parte II
+## 🧠 Resumo: Crimes Cibernéticos – Parte II
 
 #### 🎯 Objetivos da Aula
 - Descrever os **pilares do Direito Digital**.
