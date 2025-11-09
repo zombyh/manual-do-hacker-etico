@@ -1,4 +1,3 @@
-
 ## 🧠 Resumo: Direito Penal Cibernético
 
 ### 1. Introdução ao Direito Penal Cibernético
