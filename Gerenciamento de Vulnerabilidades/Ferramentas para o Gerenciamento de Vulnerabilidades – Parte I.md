@@ -1,5 +1,4 @@
-
-# Resumo: Ferramentas para o Gerenciamento de Vulnerabilidades – Parte I
+## Resumo: Ferramentas para o Gerenciamento de Vulnerabilidades – Parte I
 
 ## 📌 Objetivo da Aula
 - Descrever os **tipos de ferramentas** de gerenciamento de vulnerabilidades.
