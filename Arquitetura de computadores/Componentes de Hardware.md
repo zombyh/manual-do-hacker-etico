@@ -1,5 +1,4 @@
-
-# 📘 Resumo: Componentes de Hardware
+## 📘 Resumo: Componentes de Hardware
 
 ## 🧠 1. Estrutura Básica de um Computador
 
