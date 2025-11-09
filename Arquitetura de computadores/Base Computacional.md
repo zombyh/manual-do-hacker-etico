@@ -1,5 +1,4 @@
-
-# 📘 Resumo: Base Computacional
+## 📘 Resumo: Base Computacional
 
 ## 🧠 1. Evolução Histórica dos Computadores
 
