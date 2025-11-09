@@ -1,5 +1,4 @@
-
-# Resumo: Questões de Implementação para Software Seguro
+## Resumo: Questões de Implementação para Software Seguro
 
 ## 1. Validação de Entrada
 
