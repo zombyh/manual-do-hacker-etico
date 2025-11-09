@@ -1,5 +1,4 @@
-
-# 📘 Resumo: Processamento em Paralelo
+## 📘 Resumo: Processamento em Paralelo
 
 ## 🧠 1. Computação de Alto Desempenho por Meio do Processamento em Paralelo
 
