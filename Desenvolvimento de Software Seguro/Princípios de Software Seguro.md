@@ -1,5 +1,4 @@
-
-# Resumo: Princípios de Software Seguro
+## Resumo: Princípios de Software Seguro
 
 ## 1. Introdução aos Princípios de Segurança e Software Seguro
 
