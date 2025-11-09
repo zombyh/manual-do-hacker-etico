@@ -1,4 +1,3 @@
-
 ## 📘 Resumo Detalhado: Comunicando Resultados em Auditoria de Sistemas
 
 ## 1. Introdução
