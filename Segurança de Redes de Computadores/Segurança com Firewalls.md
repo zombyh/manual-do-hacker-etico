@@ -1,5 +1,4 @@
-
-# Resumo: Segurança com Firewalls
+## Resumo: Segurança com Firewalls
 
 ## 🎯 Objetivos da Aula
 - Definir firewall convencional e de camada 7.
