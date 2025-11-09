@@ -1,4 +1,3 @@
-
 ## 🧱 **Resumo: Ambiente Web – Cliente x Servidor e Tecnologias**
 
 ### 1. **Arquitetura Cliente x Servidor**
