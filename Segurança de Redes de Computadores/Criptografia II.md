@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Criptografia II – Segurança de Redes I
 
 ### 🔑 1. Processo de Proteção no Envio de Chaves
