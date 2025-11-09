@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Python Básico (Estruturado)
 
 ### 🔹 Módulo 1: Linguagem Python
