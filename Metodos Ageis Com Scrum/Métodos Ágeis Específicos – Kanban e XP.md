@@ -1,5 +1,4 @@
-
-# 📘 Resumo: Métodos Ágeis Específicos – Kanban e XP
+## 📘 Resumo: Métodos Ágeis Específicos – Kanban e XP
 
 ## 1. Introdução
 - Métodos ágeis são adotados para responder rapidamente às demandas do mercado, entregar valor e promover melhoria contínua.
