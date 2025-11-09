@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Criptografia e Proteção de Dados
 
 #### **1. Conceitos Fundamentais de Criptografia**
