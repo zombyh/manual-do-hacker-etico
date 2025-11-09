@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Temas Atuais da Responsabilidade Civil
 
 ### 1. Proteção de Dados Pessoais e a LGPD
