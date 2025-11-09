@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Política e Direito Cibernético
 
 ### 1. Democracia, Eleições e Fake News
