@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Técnicas Antiforense – Parte I
 
 ### 🎯 Objetivos da Aula
