@@ -1,4 +1,3 @@
-
 ## Resumo: Protocolos para Garantia da Tríade CIA
 
 ## 🎯 Objetivo da Aula
@@ -106,25 +105,9 @@
 
 ---
 
-## ❓Atividade de Revisão (Respostas Sugeridas)
-1. **SFTP**: Usa criptografia via túnel SSH.
-2. **SSH**: Oferece acesso remoto criptografado, substituindo Telnet.
-3. **IPsec**: Tunelamento seguro com modos de transporte e túnel.
-4. **SSH**: Usa criptografia simétrica, assimétrica e de chave pública.
-5. **TACACS**: Usa **TCP porta 49**.
-
----
-
 ## 📚 Referências Principais
 - KUROSE, J.; ROSS, K. *Redes de Computadores e a Internet*.
 - STALLINGS, W. *Criptografia e Segurança de Redes*.
 - RFCs: 1180 (TCP/IP), 6071 (IPsec), 1492 (TACACS).
-
----
-
-## 🧩 Palavras-Chave para Obsidian
-```
-#redes #segurança #protocolos #CIA #criptografia #IPsec #SSH #HTTPS #RADIUS #TACACS #alta-disponibilidade #TCP-IP
-```
 
 ---
