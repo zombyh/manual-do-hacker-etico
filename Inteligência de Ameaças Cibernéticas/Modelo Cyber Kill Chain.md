@@ -1,4 +1,3 @@
-
 ## 🗡️ Resumo: Modelo Cyber Kill Chain
 
 ### 🎯 **O que é o Cyber Kill Chain?**
