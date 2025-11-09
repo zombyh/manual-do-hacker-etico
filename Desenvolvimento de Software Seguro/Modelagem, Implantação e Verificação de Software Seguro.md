@@ -1,4 +1,3 @@
-
 ## 📘 Resumo Detalhado: Modelagem, Implantação e Verificação de Software Seguro
 
 ### 1. **Introdução ao Software Seguro**
