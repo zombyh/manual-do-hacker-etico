@@ -1,5 +1,4 @@
-
-# Resumo: O Surgimento da Computação Forense
+## Resumo: O Surgimento da Computação Forense
 
 ## 📌 Visão Geral
 A **Computação Forense** é uma disciplina da Criminalística que surgiu como resposta ao aumento de crimes cometidos por meio de dispositivos computacionais. Seu objetivo é **coletar, preservar, analisar e apresentar evidências digitais** de forma confiável para fins judiciais.
