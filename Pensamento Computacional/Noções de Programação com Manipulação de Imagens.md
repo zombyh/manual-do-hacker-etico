@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Noções de Programação com Manipulação de Imagens
 
 ### 🎯 **Objetivo do Material**
