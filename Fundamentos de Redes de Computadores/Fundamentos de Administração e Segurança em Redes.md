@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Fundamentos de Administração e Segurança em Redes
 
 ---
