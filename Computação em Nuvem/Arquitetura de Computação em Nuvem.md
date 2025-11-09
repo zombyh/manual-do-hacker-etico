@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Arquitetura de Computação em Nuvem
 
 ---
