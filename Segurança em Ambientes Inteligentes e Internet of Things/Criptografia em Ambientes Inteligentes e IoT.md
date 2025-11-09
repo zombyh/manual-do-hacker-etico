@@ -1,4 +1,3 @@
-
 ## 🔐 Resumo Detalhado: Criptografia em Ambientes Inteligentes e IoT
 
 ### 1. **Introdução à Segurança em Ambientes Inteligentes**
