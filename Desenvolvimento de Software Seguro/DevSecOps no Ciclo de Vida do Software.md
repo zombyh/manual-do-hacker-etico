@@ -1,4 +1,3 @@
-
 ## 📘 Resumo Detalhado: DevSecOps no Ciclo de Vida do Software
 
 ### 1. **Introdução ao DevSecOps**
