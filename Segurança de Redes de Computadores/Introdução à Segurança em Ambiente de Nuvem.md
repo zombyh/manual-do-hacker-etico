@@ -1,4 +1,3 @@
-
 ## ☁️ Resumo: Introdução à Segurança em Ambiente de Nuvem
 
 ### 🏢 1. Data Center vs. Computação em Nuvem
@@ -118,16 +117,6 @@
   - HSM (Hardware Security Module)
   - DMZ (Zona Desmilitarizada)
   - Sistemas de DDoS Protection
-
----
-
-### ❓ Perguntas de Revisão (Atividade)
-
-1. O que é um data center?
-2. Em quais subcategorias podemos dividir uma IaaS?
-3. O que é uma nuvem privada?
-4. O que significa o termo AAA?
-5. Quais são as 3 macrocategorias de preocupações com a segurança em nuvem?
 
 ---
 
