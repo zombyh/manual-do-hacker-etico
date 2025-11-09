@@ -111,3 +111,5 @@ Desabilitar o login anônimo no FTP no Metasploitable 2.
 - Leitura: “Priorização Preditiva”
 - Ferramentas: OpenVAS, Tenable, NVD
 - Referência: CAIS-RNP – Ciclo de Atualização do Plano de Ação
+
+---
