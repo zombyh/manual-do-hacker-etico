@@ -1,11 +1,7 @@
-# 🖥️ Instalação e Ajustes do Windows Server
+## 🖥️ Instalação e Ajustes do Windows Server
 
-## 📚 Visão Geral
-Este material aborda a instalação do Windows Server 2019, configurações pós-instalação, instalação do WSL (Windows Subsystem for Linux) e aplicação de políticas de segurança via GPO (Group Policy Objects).
 
----
-
-## 🛠️ 1. Instalação do Windows Server
+### 🛠️ 1. Instalação do Windows Server
 
 ### 🔹 Pré-requisitos e Preparação
 - **Sistema**: Windows Server 2019 Standard
