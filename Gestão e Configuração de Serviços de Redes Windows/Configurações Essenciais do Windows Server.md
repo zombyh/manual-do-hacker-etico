@@ -1,4 +1,3 @@
-
 ## 🧠 Resumo Detalhado: Configurações Essenciais do Windows Server
 
 ### 1. Instalação e Configuração do Controlador de Domínio (AD DS)
