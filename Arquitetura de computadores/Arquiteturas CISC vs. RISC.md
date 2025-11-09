@@ -1,5 +1,4 @@
-
-# 📘 Resumo: Arquiteturas CISC vs. RISC
+## 📘 Resumo: Arquiteturas CISC vs. RISC
 
 ## 🔍 Introdução
 
