@@ -1,5 +1,4 @@
-
-# Resumo: Segurança com Roteadores
+## Resumo: Segurança com Roteadores
 
 ## 📌 Visão Geral
 Os roteadores, embora projetados para rotear tráfego entre segmentos de rede, podem ser configurados para atuar como elementos de segurança, implementando funcionalidades similares a firewalls por meio de **listas de acesso (ACLs)** e módulos de software/hardware adicionais.
