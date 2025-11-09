@@ -1,5 +1,4 @@
-
-# 🌐 Resumo: Elementos de Segurança de Redes
+## 🌐 Resumo: Elementos de Segurança de Redes
 
 ## 📌 Visão Geral
 Com a crescente interconexão de redes e a exposição de serviços à Internet, tornou-se essencial adotar dispositivos e técnicas de segurança para proteger infraestruturas, dados e usuários. Esta aula apresenta os principais elementos de segurança utilizados em redes.
