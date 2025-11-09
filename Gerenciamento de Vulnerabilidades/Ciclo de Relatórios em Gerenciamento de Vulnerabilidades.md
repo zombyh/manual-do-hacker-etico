@@ -1,5 +1,4 @@
-
-# Resumo: Ciclo de Relatórios em Gerenciamento de Vulnerabilidades
+## Resumo: Ciclo de Relatórios em Gerenciamento de Vulnerabilidades
 
 ## 📌 Objetivo da Aula
 - Descrever o processo de **criação de grupos de ativos**.
