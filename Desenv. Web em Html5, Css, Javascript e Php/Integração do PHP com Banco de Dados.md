@@ -1,4 +1,3 @@
-
 ## 🗄️ **Resumo: Integração do PHP com Banco de Dados**
 
 ### 1. **Introdução à Integração PHP + BD**
