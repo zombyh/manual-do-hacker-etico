@@ -1,4 +1,3 @@
-
 ## 🛠️ Resumo: Ferramentas e Técnicas de Auditoria de Sistemas
 
 ### 1. Fases de uma Auditoria de Sistemas
