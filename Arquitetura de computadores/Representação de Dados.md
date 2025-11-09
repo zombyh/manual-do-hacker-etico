@@ -1,4 +1,3 @@
-
 ## 📘 Resumo Detalhado: Representação de Dados
 
 ### **Módulo 1: Sistemas de Computação**
