@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Manipulação de Dados em Arquivos com Python
 
 ### 1. Introdução
