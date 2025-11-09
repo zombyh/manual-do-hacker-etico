@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Aula 10 – Estudos de Caso de Chantagens Online
 
 ### 🎯 Objetivos da Aula
