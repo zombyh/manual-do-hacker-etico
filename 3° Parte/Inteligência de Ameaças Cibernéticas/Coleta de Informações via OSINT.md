@@ -34,7 +34,7 @@
 - **Cenário**: Código-fonte ou documentação exposta no GitHub  
 - **Ferramenta**: `gitformant.py`  
   - Busca por palavras-chave em repositórios públicos  
-  - Exemplo: `python gitformant.py "estacio.br"` → 693 resultados
+  - Exemplo: `python gitformant.py "empresa.br"` → 500 resultados
 
 ### 2. Vazamentos em Pastebin
 - **Pastebin**: Site para compartilhamento rápido de texto  

@@ -112,9 +112,7 @@
 
 ---
 
-## 🔗 Links de Apoio (Saiba Mais)
-- [Controles Internos e Processos](https://estaciodocente.webaula.com.br/cursos/gra097/docs/03AS_doc02.pdf)
-- [Execução da Auditoria](http://estaciodocente.webaula.com.br/cursos/gra097/docs/03AS_doc03.pdf)
+## 🔗 Link de Apoio
 - [ISO 27001](http://www.iso27001security.com) – Norma de Segurança da Informação
 
 ---

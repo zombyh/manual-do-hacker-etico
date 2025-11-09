@@ -109,9 +109,3 @@
   3. Verificar eventuais divergências.
 
 ---
-
-## 📚 Materiais Complementares
-- [Mais sobre Log/Accounting](http://estaciodocente.webaula.com.br/cursos/gra097/docs/05AS_doc01.pdf)
-- Exemplos de matriz de Ponto de Controle com técnicas sugeridas (disponíveis na biblioteca virtual do curso).
-
----

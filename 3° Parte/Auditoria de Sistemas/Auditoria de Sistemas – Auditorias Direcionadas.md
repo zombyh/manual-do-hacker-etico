@@ -130,11 +130,3 @@
   2. Testes substantivos das transações.
 
 ---
-
-## 📌 Materiais Complementares (Links)
-- [Teste de Controles – Aquisição e Desenvolvimento](http://estaciodocente.webaula.com.br/cursos/gra097/docs/08AS.doc01.pdf)
-- [Teste de Controles – Operação de Sistemas](http://estaciodocente.webaula.com.br/cursos/gra097/docs/08AS.doc02.pdf)
-- [Suporte Técnico](http://estaciodocente.webaula.com.br/cursos/gra097/docs/08AS_doc03.pdf)
-- [Auditoria de Sistemas Aplicativos](http://estaciodocente.webaula.com.br/cursos/gra097/docs/08AS.doc04.pdf)
-
----
