@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Segurança em Computação em Nuvem
 
 ---
