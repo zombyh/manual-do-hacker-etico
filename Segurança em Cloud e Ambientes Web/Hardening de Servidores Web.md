@@ -1,5 +1,4 @@
-
-# Resumo: Hardening de Servidores Web
+## Resumo: Hardening de Servidores Web
 
 ## 1. Introdução ao Hardening
 
