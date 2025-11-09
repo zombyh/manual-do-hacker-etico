@@ -1,5 +1,4 @@
-
-# 🔐 Resumo: Criptografia I
+## 🔐 Resumo: Criptografia I
 
 ## 🎯 Objetivos da Aula
 - Definir criptografia e seu funcionamento.
@@ -119,13 +118,5 @@
 
 ## 🎬 Indicação Cultural
 - **Filme**: *O Jogo da Imitação* (Enigma) – sobre Alan Turing e a quebra da cifra nazista.
-
----
-
-### 🧠 Próximos Temas:
-- Programas de criptografia
-- Protocolos de segurança
-- Assinatura digital
-- Certificado digital
 
 ---
