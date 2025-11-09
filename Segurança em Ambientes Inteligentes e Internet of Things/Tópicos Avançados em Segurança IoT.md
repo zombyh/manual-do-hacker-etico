@@ -1,5 +1,4 @@
-
-# 🧠 Resumo: Tópicos Avançados em Segurança IoT
+## 🧠 Resumo: Tópicos Avançados em Segurança IoT
 
 ## 1. Introdução à Segurança em IoT
 - A segurança em IoT é um desafio devido à diversidade de dispositivos, falta de padrões universais e restrições de recursos.
