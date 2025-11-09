@@ -1,5 +1,4 @@
-
-# Resumo: Perícia Forense Computacional – Parte II
+## Resumo: Perícia Forense Computacional – Parte II
 
 ## 🔎 Procedimentos Básicos da Perícia Forense
 De acordo com Freitas (2007), a perícia forense computacional segue quatro etapas principais:
