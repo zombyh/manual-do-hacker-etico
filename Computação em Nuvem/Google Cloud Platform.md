@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: – Google Cloud Platform (GCP)
 
 ---
