@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: **Python Orientado a Objetos**
 
 ### **Módulo 1: Conceitos Fundamentais de POO**
