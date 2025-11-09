@@ -1,4 +1,3 @@
-
 ## 🐘 **Resumo: Programação de Páginas Dinâmicas com PHP**
 
 ### 1. **Introdução ao PHP**
