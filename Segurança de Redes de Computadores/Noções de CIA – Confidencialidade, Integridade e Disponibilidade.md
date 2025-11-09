@@ -1,5 +1,4 @@
-
-# 🛡️ Resumo: Noções de CIA – Confidencialidade, Integridade e Disponibilidade
+## 🛡️ Resumo: Noções de CIA – Confidencialidade, Integridade e Disponibilidade
 
 ## 📌 Visão Geral
 A Segurança da Informação (SI) tem como objetivo **proteger o valor dos dados**, que são ativos essenciais para indivíduos, empresas e sociedade. O conceito de **CIA** é a base da SI, representando três pilares fundamentais:
