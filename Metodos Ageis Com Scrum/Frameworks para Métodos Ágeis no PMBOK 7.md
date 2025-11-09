@@ -1,4 +1,3 @@
-
 ## 🧠 Resumo Detalhado: Frameworks para Métodos Ágeis no PMBOK 7
 
 ### 📌 Introdução
