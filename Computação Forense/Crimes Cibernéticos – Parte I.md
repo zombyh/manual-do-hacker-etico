@@ -1,5 +1,4 @@
-
-### 📘 Resumo: Crimes Cibernéticos – Parte I
+## 📘 Resumo: Crimes Cibernéticos – Parte I
 
 #### 🎯 Objetivos da Aula
 - Examinar a **etimologia** dos crimes cibernéticos.
