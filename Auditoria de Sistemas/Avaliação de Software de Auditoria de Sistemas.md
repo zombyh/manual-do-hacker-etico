@@ -1,4 +1,3 @@
-
 ## 📘 Resumo Detalhado: Avaliação de Software de Auditoria de Sistemas
 
 ## 1. Introdução
