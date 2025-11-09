@@ -1,4 +1,3 @@
-
 ## 🎯 Estratégia de Serviços de TI
 
 ### 📌 Propósito
