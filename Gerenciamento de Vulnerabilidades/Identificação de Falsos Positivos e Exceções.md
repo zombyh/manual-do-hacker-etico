@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Identificação de Falsos Positivos e Exceções
 
 ### 📌 Visão Geral
