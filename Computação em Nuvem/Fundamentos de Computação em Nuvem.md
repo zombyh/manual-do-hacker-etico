@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Fundamentos de Computação em Nuvem
 
 ---
