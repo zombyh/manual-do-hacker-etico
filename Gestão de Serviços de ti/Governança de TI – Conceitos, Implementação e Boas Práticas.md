@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: **Governança de TI – Conceitos, Implementação e Boas Práticas**
 
 ### 📌 Objetivo da Governança de TI:
