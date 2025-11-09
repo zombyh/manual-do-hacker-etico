@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Princípios da Segurança e Ciclo de Vida da Informação
 
 ### 1. **Conceitos Básicos: Dado vs. Informação**
