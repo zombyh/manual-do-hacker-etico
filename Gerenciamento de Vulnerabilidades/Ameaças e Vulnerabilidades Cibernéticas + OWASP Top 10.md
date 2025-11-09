@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Ameaças e Vulnerabilidades Cibernéticas + OWASP Top 10
 
 ### 1. **Ameaças Cibernéticas**
