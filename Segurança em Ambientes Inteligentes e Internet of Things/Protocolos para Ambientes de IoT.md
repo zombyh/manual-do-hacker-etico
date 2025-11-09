@@ -1,5 +1,4 @@
-
-# 🧠 Resumo: Protocolos para Ambientes de IoT
+## 🧠 Resumo: Protocolos para Ambientes de IoT
 
 ## 1. Introdução à IoT
 - Conceito: Interconexão de dispositivos físicos à internet para coleta e troca de dados sem intervenção humana.
