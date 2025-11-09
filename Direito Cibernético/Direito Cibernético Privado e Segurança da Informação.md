@@ -1,4 +1,3 @@
-
 ## 🧠 Resumo: Direito Cibernético Privado e Segurança da Informação
 
 ### 1. Propriedade Intelectual e Tecnologia da Informação
