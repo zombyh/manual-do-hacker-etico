@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Microsoft Azure
 
 ---
