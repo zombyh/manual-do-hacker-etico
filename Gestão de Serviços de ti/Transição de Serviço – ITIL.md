@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: **Transição de Serviço – ITIL**
 
 ### 📌 Objetivo do Estágio de Transição de Serviço:
