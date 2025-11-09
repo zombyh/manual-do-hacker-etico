@@ -1,4 +1,3 @@
-
 ## 📘 Resumo: Planos de Contingência
 
 ### 🎯 Objetivos da Aula
