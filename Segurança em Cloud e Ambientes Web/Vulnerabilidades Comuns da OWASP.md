@@ -1,5 +1,4 @@
-
-# 🎯 Vulnerabilidades Comuns da OWASP – Resumo Estruturado
+## 🎯 Vulnerabilidades Comuns da OWASP – Resumo Estruturado
 
 ## 📌 Introdução
 - O **OWASP Top 10** é uma lista das vulnerabilidades mais críticas em aplicações web.
